@@ -42,8 +42,8 @@ If you want to search & filters the complete database of [.PARTY one word domain
 | abhorrent.party  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.party    | available | 106      | 5%     | 7      |           |         |         |
 | abient.party     | available | 54       | 1%     | 6      |           |         |         |
-| ability.party    | available | 92       | 18%    | 7      |           |         |         |
-| abit.party       | available | 66       | 16%    | 5      |           |         |         |
+| ability.party    | premium   | 92       | 18%    | 7      |           |         |         |
+| abit.party       | premium   | 66       | 16%    | 5      |           |         |         |
 | abject.party     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.party     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.party  | available | 78       | 1%     | 9      |           |         |         |
