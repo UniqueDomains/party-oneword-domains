@@ -67,7 +67,7 @@ print(df.head())
 | seventeen.party    | available | $9.98     | —             | 84             | 62     | 9      | namecheap       |
 | zero.party         | resell    | $3,448.85 | $34.99        | 112            | 53     | 4      | Porkbun         |
 | converse.party     | premium   | $437.50   | $62.50        | 64             | 73     | 8      | name.com        |
-| forge.party        | available | $9.98     | —             | 62             | 45     | 5      | namecheap       |
+| forge.party        | available | $9.98     | —             | 62             | 44     | 5      | namecheap       |
 | taiwan.party       | resell    | —         | —             | 66             | 93     | 6      | Porkbun         |
 | nationwide.party   | premium   | $437.50   | $62.50        | 76             | 66     | 10     | name.com        |
 | concrete.party     | available | $9.98     | —             | 102            | 32     | 8      | namecheap       |
