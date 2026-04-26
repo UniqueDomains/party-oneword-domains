@@ -1,22 +1,22 @@
-# Available .PARTY One-Word Domains (9,093)
+# Available .PARTY One-Word Domains (11,239)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C093%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C093%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C239%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .party one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .party one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,239 domains** on the canonical page below.
 
-**Public extract:** 9,093 rows · **Live catalog:** 9,093 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,239 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/party`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .PARTY one-word domain
 
 ### Files
 
-- `party.csv` — public CSV extract (9,093 rows)
-- `party.json` — public JSON extract (9,093 rows)
+- `party.csv` — public CSV extract (1,000 rows)
+- `party.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| seventeen.party    | available | $9.98     | —             | 84             | 62     | 9      | namecheap       |
-| zero.party         | resell    | $3,448.85 | $34.99        | 112            | 53     | 4      | Porkbun         |
-| converse.party     | premium   | $437.50   | $62.50        | 64             | 73     | 8      | name.com        |
-| forge.party        | available | $9.98     | —             | 62             | 44     | 5      | namecheap       |
-| taiwan.party       | resell    | —         | —             | 66             | 93     | 6      | Porkbun         |
-| nationwide.party   | premium   | $437.50   | $62.50        | 76             | 66     | 10     | name.com        |
-| concrete.party     | available | $9.98     | —             | 102            | 32     | 8      | namecheap       |
-| swift.party        | resell    | —         | —             | 68             | 85     | 5      | Key-Systems LLC |
-| easy.party         | premium   | $3,125    | $125          | 128            | 62     | 4      | name.com        |
-| ethereal.party     | available | $9.98     | —             | 88             | 31     | 8      | namecheap       |
-| universal.party    | resell    | —         | —             | 96             | 81     | 9      | Porkbun         |
-| cloud.party        | premium   | $6,500    | $130          | 70             | 59     | 5      | namecheap       |
-| healthcare.party   | available | $9.98     | —             | 76             | 31     | 10     | namecheap       |
-| entrepreneur.party | resell    | —         | —             | 78             | 80     | 12     | Porkbun         |
-| alpha.party        | premium   | $6,250    | $125          | 90             | 53     | 5      | name.com        |
-| trinity.party      | available | $9.98     | —             | 72             | 30     | 7      | namecheap       |
-| flow.party         | resell    | —         | —             | 96             | 67     | 4      | Porkbun         |
-| true.party         | premium   | $1,250    | $125          | 86             | 52     | 4      | name.com        |
-| curative.party     | available | $9.98     | —             | 92             | 27     | 8      | namecheap       |
-| line.party         | resell    | —         | —             | 74             | 65     | 4      | Dynadot Inc     |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| aliens.party       | available | $5.25     | $6.25         | 56             | 35     | 6      | namesilo                      |
+| nets.party         | resell    | —         | —             | 54             | 81     | 4      | West263 International Limited |
+| partners.party     | premium   | $437.50   | —             | 61             | 32     | 8      | name.com                      |
+| heroes.party       | available | $9.98     | —             | 68             | 29     | 6      | namecheap                     |
+| tokens.party       | resell    | —         | —             | 51             | 36     | 6      | Dominet (HK) Limited          |
+| Jim.party          | premium   | $700      | $91           | 78             | 28     | 3      | namecheap                     |
+| Keith.party        | available | $9.98     | —             | 66             | 25     | 5      | namecheap                     |
+| homes.party        | resell    | —         | —             | 86             | 34     | 5      | Porkbun                       |
+| gems.party         | premium   | $1,107    | $116          | 70             | 28     | 4      | namesilo                      |
+| flights.party      | available | $5.25     | $6.25         | 61             | 22     | 7      | namesilo                      |
+| chem.party         | resell    | —         | —             | 74             | 24     | 4      | Key-Systems LLC               |
+| gods.party         | premium   | $6,250    | —             | 72             | 27     | 4      | name.com                      |
+| wheels.party       | available | $9.98     | —             | 76             | 20     | 6      | namecheap                     |
+| likes.party        | resell    | —         | —             | 52             | 20     | 5      | IONOS SE                      |
+| bees.party         | premium   | $437.50   | —             | 54             | 27     | 4      | name.com                      |
+| snaps.party        | available | $9.98     | —             | 52             | 20     | 5      | namecheap                     |
+| rocks.party        | resell    | —         | —             | 78             | 18     | 5      | Key-Systems LLC               |
+| has.party          | premium   | $625      | —             | 60             | 26     | 3      | name.com                      |
+| breakingnews.party | available | $9.98     | —             | 66             | 19     | 13     | namecheap                     |
+| girls.party        | premium   | $6,250    | —             | 83             | 23     | 5      | name.com                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,093-row public sample | 9,093 live domains                               |
+| 1,000-row public sample | 11,239 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARTY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARTY One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
