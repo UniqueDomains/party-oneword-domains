@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| aliens.party       | available | $5.25     | $6.25         | 56             | 35     | 6      | namesilo                      |
-| nets.party         | resell    | —         | —             | 54             | 81     | 4      | West263 International Limited |
-| Jim.party          | premium   | $700      | $91           | 78             | 28     | 3      | namecheap                     |
-| heroes.party       | available | $9.98     | —             | 68             | 29     | 6      | namecheap                     |
-| tokens.party       | resell    | —         | —             | 51             | 36     | 6      | Dominet (HK) Limited          |
-| gods.party         | premium   | $6,250    | —             | 72             | 27     | 4      | name.com                      |
-| Keith.party        | available | $9.98     | —             | 66             | 25     | 5      | namecheap                     |
-| homes.party        | resell    | —         | —             | 86             | 34     | 5      | Porkbun                       |
-| bees.party         | premium   | $437.50   | —             | 54             | 27     | 4      | name.com                      |
-| breakingnews.party | available | $9.98     | —             | 66             | 19     | 13     | namecheap                     |
-| affiliates.party   | resell    | —         | —             | 60             | 21     | 10     | Key-Systems LLC               |
-| has.party          | premium   | $625      | —             | 60             | 26     | 3      | name.com                      |
-| ebooks.party       | available | $9.98     | —             | 62             | 19     | 6      | namecheap                     |
-| likes.party        | resell    | —         | —             | 52             | 20     | 5      | IONOS SE                      |
-| girls.party        | premium   | $6,250    | —             | 83             | 23     | 5      | name.com                      |
-| voices.party       | available | $9.98     | —             | 60             | 19     | 6      | namecheap                     |
-| products.party     | premium   | $437.50   | —             | 60             | 23     | 8      | name.com                      |
-| deeper.party       | available | $9.98     | —             | 56             | 19     | 6      | namecheap                     |
-| investors.party    | premium   | $437.50   | —             | 60             | 23     | 9      | name.com                      |
-| weddings.party     | available | $5.25     | $6.25         | 64             | 18     | 8      | namesilo                      |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| aliens.party       | available | $5.25     | $6.25         | 56             | 35     | 6      | namesilo                                                  |
+| nets.party         | resell    | —         | —             | 54             | 81     | 4      | West263 International Limited                             |
+| Jim.party          | premium   | $700      | $91           | 78             | 28     | 3      | namecheap                                                 |
+| heroes.party       | available | $9.98     | —             | 68             | 29     | 6      | namecheap                                                 |
+| tokens.party       | resell    | —         | —             | 51             | 36     | 6      | Dominet (HK) Limited                                      |
+| gods.party         | premium   | $6,250    | —             | 72             | 27     | 4      | name.com                                                  |
+| Keith.party        | available | $9.98     | —             | 66             | 25     | 5      | namecheap                                                 |
+| homes.party        | resell    | —         | —             | 86             | 34     | 5      | Porkbun                                                   |
+| bees.party         | premium   | $437.50   | —             | 54             | 27     | 4      | name.com                                                  |
+| breakingnews.party | available | $9.98     | —             | 66             | 19     | 13     | namecheap                                                 |
+| her.party          | resell    | —         | —             | 68             | 30     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| has.party          | premium   | $625      | —             | 60             | 26     | 3      | name.com                                                  |
+| ebooks.party       | available | $9.98     | —             | 62             | 19     | 6      | namecheap                                                 |
+| affiliates.party   | resell    | —         | —             | 60             | 21     | 10     | Key-Systems LLC                                           |
+| girls.party        | premium   | $6,250    | —             | 83             | 23     | 5      | name.com                                                  |
+| voices.party       | available | $9.98     | —             | 60             | 19     | 6      | namecheap                                                 |
+| likes.party        | resell    | —         | —             | 52             | 20     | 5      | IONOS SE                                                  |
+| products.party     | premium   | $437.50   | —             | 60             | 23     | 8      | name.com                                                  |
+| deeper.party       | available | $9.98     | —             | 56             | 19     | 6      | namecheap                                                 |
+| investors.party    | premium   | $437.50   | —             | 60             | 23     | 9      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

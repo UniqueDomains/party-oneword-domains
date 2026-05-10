@@ -183,6 +183,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 11565a13-3ade-4e0d-b419-827b2628c46d,barup.party,available,9.98,,82,2,6,namecheap,,
 117937ca-8293-467f-907e-411c0edc6973,cheesecakes.party,available,5.25,6.25,60,4,11,namesilo,,
 11857aa4-8fc9-4054-9dab-d8c905f98e6d,getover.party,available,9.98,,79,4,8,namecheap,,
+118d366a-e966-46ef-863e-543d7202cfca,her.party,resell,,,68,30,3,"Global Domains International, Inc. DBA DomainCostClub.com",02/03/2015 07:09,01/03/2027 23:59
 11a0d20e-cc06-4844-a5f4-4dde09f0c90d,compilation.party,premium,437.5,,68,7,11,name.com,,
 11afd11a-7725-4142-8486-93337083c2f7,proxybullying.party,available,9.98,,28,1,14,namecheap,,
 11c7f249-80bb-442e-8ec6-1f18b460c156,Keith.party,available,9.98,,66,25,5,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 604d89e8-f81f-48b0-87d2-3ab0cc36defb,makesenseof.party,available,9.98,,52,1,13,namecheap,,
 6050ac8c-af22-4367-9d05-69afffd837b9,grandkids.party,premium,437.5,,66,3,9,name.com,,
 6053d094-2127-4280-97f1-6064c941d80e,havemercy.party,premium,437.5,,80,2,10,name.com,,
-60642c05-b402-4ece-9816-132338de0749,devotions.party,premium,437.5,,56,5,9,name.com,,
