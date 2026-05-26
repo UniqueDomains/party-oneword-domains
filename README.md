@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .party one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,662 domains · **Median ask:** $609.77 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/party`  
 **Best for:** founders, investors, studios
 
@@ -79,10 +79,10 @@ print(df.head())
 | ebooks.party       | available | $9.98     | —             | 62             | 19     | 6      | namecheap                                                 |
 | affiliates.party   | resell    | —         | —             | 60             | 21     | 10     | Key-Systems LLC                                           |
 | girls.party        | premium   | $6,250    | —             | 83             | 23     | 5      | name.com                                                  |
-| voices.party       | available | $9.98     | —             | 60             | 19     | 6      | namecheap                                                 |
+| deeper.party       | available | $9.98     | —             | 56             | 19     | 6      | namecheap                                                 |
 | likes.party        | resell    | —         | —             | 52             | 20     | 5      | IONOS SE                                                  |
 | products.party     | premium   | $437.50   | —             | 60             | 23     | 8      | name.com                                                  |
-| deeper.party       | available | $9.98     | —             | 56             | 19     | 6      | namecheap                                                 |
+| weddings.party     | available | $5.25     | $6.25         | 64             | 18     | 8      | namesilo                                                  |
 | investors.party    | premium   | $437.50   | —             | 60             | 23     | 9      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARTY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARTY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
