@@ -66,10 +66,10 @@ print(df.head())
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | aliens.party       | available | $5.25     | $6.25         | 56             | 35     | 6      | namesilo                                                  |
 | nets.party         | resell    | —         | —             | 54             | 81     | 4      | West263 International Limited                             |
-| Jim.party          | premium   | $700      | $91           | 78             | 28     | 3      | namecheap                                                 |
+| gods.party         | premium   | $6,250    | —             | 72             | 29     | 4      | name.com                                                  |
 | heroes.party       | available | $9.98     | —             | 68             | 29     | 6      | namecheap                                                 |
 | tokens.party       | resell    | —         | —             | 51             | 36     | 6      | Dominet (HK) Limited                                      |
-| gods.party         | premium   | $6,250    | —             | 72             | 27     | 4      | name.com                                                  |
+| Jim.party          | premium   | $700      | $91           | 78             | 28     | 3      | namecheap                                                 |
 | Keith.party        | available | $9.98     | —             | 66             | 25     | 5      | namecheap                                                 |
 | homes.party        | resell    | —         | —             | 86             | 34     | 5      | Porkbun                                                   |
 | bees.party         | premium   | $437.50   | —             | 54             | 27     | 4      | name.com                                                  |
@@ -82,7 +82,7 @@ print(df.head())
 | deeper.party       | available | $9.98     | —             | 56             | 19     | 6      | namecheap                                                 |
 | likes.party        | resell    | —         | —             | 52             | 20     | 5      | IONOS SE                                                  |
 | products.party     | premium   | $437.50   | —             | 60             | 23     | 8      | name.com                                                  |
-| weddings.party     | available | $5.25     | $6.25         | 64             | 18     | 8      | namesilo                                                  |
+| reallife.party     | available | $9.98     | —             | 68             | 18     | 9      | namecheap                                                 |
 | investors.party    | premium   | $437.50   | —             | 60             | 23     | 9      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
