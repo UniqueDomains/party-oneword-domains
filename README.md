@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .party one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,662 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,662 domains · **Median ask:** $609.77 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,662 domains · **Median ask:** $442.28 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/party`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/party`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .PARTY one-word domain
 
 ### Files
 
-- `party.csv` — public CSV extract (1,000 rows)
-- `party.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `party.csv`, public CSV extract (1,000 rows)
+- `party.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| aliens.party       | available | $5.25     | $6.25         | 56             | 35     | 6      | namesilo                                                  |
-| nets.party         | resell    | —         | —             | 54             | 81     | 4      | West263 International Limited                             |
-| gods.party         | premium   | $6,250    | —             | 72             | 29     | 4      | name.com                                                  |
-| heroes.party       | available | $9.98     | —             | 68             | 29     | 6      | namecheap                                                 |
-| tokens.party       | resell    | —         | —             | 51             | 36     | 6      | Dominet (HK) Limited                                      |
-| Jim.party          | premium   | $700      | $91           | 78             | 28     | 3      | namecheap                                                 |
-| Keith.party        | available | $9.98     | —             | 66             | 25     | 5      | namecheap                                                 |
-| homes.party        | resell    | —         | —             | 86             | 34     | 5      | Porkbun                                                   |
-| bees.party         | premium   | $437.50   | —             | 54             | 27     | 4      | name.com                                                  |
-| breakingnews.party | available | $9.98     | —             | 66             | 19     | 13     | namecheap                                                 |
-| her.party          | resell    | —         | —             | 68             | 30     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| has.party          | premium   | $625      | —             | 60             | 26     | 3      | name.com                                                  |
-| ebooks.party       | available | $9.98     | —             | 62             | 19     | 6      | namecheap                                                 |
-| affiliates.party   | resell    | —         | —             | 60             | 21     | 10     | Key-Systems LLC                                           |
-| girls.party        | premium   | $6,250    | —             | 83             | 23     | 5      | name.com                                                  |
-| deeper.party       | available | $9.98     | —             | 56             | 19     | 6      | namecheap                                                 |
-| likes.party        | resell    | —         | —             | 52             | 20     | 5      | IONOS SE                                                  |
-| products.party     | premium   | $437.50   | —             | 60             | 23     | 8      | name.com                                                  |
-| reallife.party     | available | $9.98     | —             | 68             | 18     | 9      | namecheap                                                 |
-| investors.party    | premium   | $437.50   | —             | 60             | 23     | 9      | name.com                                                  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| ahuh.party   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                            |
+| ant.party    | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| all.party    | premium   | $625      | $81.25        | high           | medium | 3      | name.com                                            |
+| Fran.party   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
+| Audi.party   | resell    | —         | —             | high           | low    | 4      | NameSilo, LLC                                       |
+| atp.party    | premium   | $625      | —             | medium         | low    | 3      | name.com                                            |
+| gore.party   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
+| case.party   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                    |
+| bed.party    | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
+| mile.party   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
+| bible.party  | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                         |
+| but.party    | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
+| navy.party   | available | $9.98     | —             | high           | low    | 4      | namecheap                                           |
+| crush.party  | resell    | —         | —             | high           | low    | 5      | Porkbun                                             |
+| cap.party    | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
+| opal.party   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
+| sauna.party  | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                     |
+| cut.party    | premium   | $625      | $81.25        | high           | low    | 3      | name.com                                            |
+| rear.party   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                            |
+| ardent.party | resell    | —         | —             | medium         | low    | 6      | Porkbun                                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of .party domain names. The mix includes single-word terms, descriptive phrases, and more unconventional names such as einstein.party, supersize.party, facet.party, and classicalguitar.party. For founders, the main question is whether the word feels memorable and contextually strong enough to carry a .party ending without confusion. For investors, the key is selectivity: broad commercial words may attract more interest than long or highly specific phrases, but asking price still matters. With a median ask near $610, the strongest candidates are usually the ones that are easy to read, easy to say, and clearly suited to events, entertainment, communities, or playful consumer brands.
+This list of .party domains groups short, compound-style names such as getready.party, makeit.party, and bonappetit.party. Most lean toward events, celebrations, and lifestyle branding rather than generic keywords, making the naming style consistent across the set. With a median ask near $442 and over 11,000 names available, comparing individual asks against name length and word recognition is the fastest way to separate strong picks from the rest.
 
-- Prefer short, clear words that still fit a .party ending
-- Treat long phrases as narrower and usually less flexible
-- Check if the keyword feels natural for events or community use
-- Be cautious with famous names and obvious trademark signals
+- 11,662 one-word .party domains in this selection
+- Median ask near $442 across the set
+- Compound, brandable names — e.g. makeit.party, getready.party
+- Event and celebration themes dominate this TLD
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARTY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARTY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
