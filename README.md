@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .party one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,778 domains · **Median ask:** $259.55 · **High-demand under $2,500:** 11
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/party`
 **Best for:** founders, investors, studios
 
@@ -66,8 +66,6 @@ print(df.head())
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
 | okay.party  | premium   | $3,125    | $125          | high           | low    | 4      | name.com                                            |
 | sorry.party | available | —         | —             | high           | low    | 5      | —                                                   |
-| one.party   | available | —         | —             | high           | medium | 3      | —                                                   |
-| time.party  | premium   | $1,107    | $116          | high           | medium | 4      | namesilo                                            |
 | ahuh.party  | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                            |
 | ant.party   | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | all.party   | premium   | $625      | $81.25        | high           | medium | 3      | name.com                                            |
@@ -84,6 +82,8 @@ print(df.head())
 | crush.party | resell    | —         | —             | low            | low    | 5      | Dynadot Inc                                         |
 | cap.party   | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
 | mile.party  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
+| sauna.party | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                     |
+| ccc.party   | premium   | $625      | $81.25        | low            | medium | 3      | name.com                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARTY One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARTY One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
