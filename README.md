@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .party one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,259 domains · **Median ask:** $214.29 · **High-demand under $2,500:** 13
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/party`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| event.party  | premium   | $6,500    | $130          | high           | medium | 5      | namecheap                                           |
-| social.party | available | —         | —             | high           | low    | 6      | —                                                   |
 | ahuh.party   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                            |
 | ant.party    | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | all.party    | premium   | $625      | $81.25        | high           | medium | 3      | name.com                                            |
@@ -84,6 +82,8 @@ print(df.head())
 | mile.party   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
 | sauna.party  | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                     |
 | ccc.party    | premium   | $625      | $81.25        | low            | medium | 3      | name.com                                            |
+| navy.party   | available | $9.98     | —             | high           | low    | 4      | namecheap                                           |
+| credit.party | resell    | —         | —             | medium         | low    | 6      | Dynadot Inc                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARTY One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARTY One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
