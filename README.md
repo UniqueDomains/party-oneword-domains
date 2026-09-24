@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .party one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,924 domains · **Median ask:** $199.09 · **High-demand under $2,500:** 12
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/party`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| ahuh.party   | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                            |
-| ant.party    | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| all.party    | premium   | $650      | $84.50        | medium         | low    | 3      | namecheap                                           |
-| ashy.party   | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                            |
-| audi.party   | resell    | —         | —             | high           | low    | 4      | NameSilo, LLC                                       |
-| atp.party    | premium   | $625      | —             | medium         | low    | 3      | name.com                                            |
-| cxxv.party   | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                            |
-| case.party   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                    |
-| bed.party    | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
-| fran.party   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
-| bible.party  | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                         |
-| but.party    | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
-| gore.party   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
-| crush.party  | resell    | —         | —             | low            | low    | 5      | Dynadot Inc                                         |
-| cap.party    | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
-| harm.party   | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
-| sauna.party  | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                     |
-| ccc.party    | premium   | $625      | $81.25        | low            | medium | 3      | name.com                                            |
-| lvii.party   | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                            |
-| credit.party | resell    | —         | —             | medium         | low    | 6      | Dynadot Inc                                         |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| event.party | premium   | $6,500    | $130          | high           | medium | 5      | namecheap                                           |
+| ahuh.party  | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                            |
+| ant.party   | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| atp.party   | premium   | $625      | —             | medium         | low    | 3      | name.com                                            |
+| ashy.party  | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                            |
+| arty.party  | resell    | —         | —             | low            | low    | 4      | NameCheap, Inc.                                     |
+| bae.party   | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
+| boer.party  | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                            |
+| audi.party  | resell    | —         | —             | high           | low    | 4      | NameSilo, LLC                                       |
+| bed.party   | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
+| cxxv.party  | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                            |
+| case.party  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                    |
+| bra.party   | premium   | $625      | —             | medium         | low    | 3      | name.com                                            |
+| fran.party  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
+| goat.party  | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc                                         |
+| but.party   | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
+| gore.party  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
+| bible.party | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                         |
+| cap.party   | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
+| harm.party  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARTY One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARTY One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
