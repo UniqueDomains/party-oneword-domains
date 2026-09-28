@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-4d6655d9-5dfe-4d72-8352-0747ca2d7ba2,court.party,premium,1250,,high,low,5,name.com,,,
+4d6655d9-5dfe-4d72-8352-0747ca2d7ba2,court.party,premium,1107,116,high,low,5,namesilo,,,27/09/2026 16:05
 ff6d96b3-6cc6-4bc8-8c3a-351a27626250,teachers.party,available,5.98,9.98,high,low,8,namecheap,,,18/09/2026 18:31
 f642d6a8-ca2d-4f4d-975f-b39dc5a283c9,tennyson.party,available,5.25,6.25,medium,low,8,namesilo,,,18/09/2026 06:38
 3e512168-29bf-4c94-bb8a-0b7170c05e7d,venomous.party,available,5.25,6.25,medium,low,8,namesilo,,,13/09/2026 02:08
@@ -7,7 +7,7 @@ f642d6a8-ca2d-4f4d-975f-b39dc5a283c9,tennyson.party,available,5.25,6.25,medium,l
 0481c3be-f6a8-4346-b32b-7cdf40b2ca40,unbuttoned.party,premium,448,53.92,medium,low,10,namesilo,,,12/09/2026 04:42
 0bcf929c-ba04-4cb2-a449-36b285b03c59,ataturk.party,available,5.25,6.25,high,low,7,namesilo,,,20/09/2026 19:44
 7bcc07c7-0a73-4343-a2cc-906c8800b3dd,arching.party,available,5.25,6.25,medium,low,7,namesilo,,,06/08/2026 14:39
-a092c725-fced-4bdb-9d1c-6cc88a42e87b,administration.party,premium,640,77.35,high,low,14,namesilo,,,25/09/2026 12:34
+a092c725-fced-4bdb-9d1c-6cc88a42e87b,administration.party,premium,550,71.5,high,low,14,dynadot,,,28/09/2026 03:19
 0ffa043d-e77a-4656-8125-5ad9ce828c57,miotic.party,available,5.25,6.25,medium,low,6,namesilo,,,25/08/2026 01:00
 c9a4040f-0655-4027-b30f-c81fd10c82f8,phobic.party,available,5.98,9.98,medium,low,6,namecheap,,,08/09/2026 18:56
 e205d958-8f7f-4f48-a83b-85497794a8af,hal.party,premium,640,77.35,high,low,3,namesilo,,,25/09/2026 12:39
@@ -26,13 +26,14 @@ d593e732-06f9-48b0-9795-6cebbee20df5,combative.party,available,5.98,9.98,medium,
 ccf04578-21f8-4800-846e-0af223961004,fuscous.party,available,5.98,9.98,medium,low,7,namecheap,,,18/08/2026 19:02
 538ec0b6-9be8-4fad-b578-a96442ceb282,guys.party,premium,625,,high,low,4,name.com,,,
 074ec5c8-9be0-41e6-bcab-8310e58e6d6c,vagile.party,available,5.25,6.25,low,low,6,namesilo,,,13/09/2026 00:47
+1d42896d-1a38-4364-8c23-46f7b89a34ea,replaced.party,available,5.25,6.25,medium,low,8,namesilo,,,27/09/2026 22:59
 b7385bae-c79b-46dc-90e5-08286fd6855e,cassie.party,available,5.98,9.98,high,low,6,namecheap,,,16/09/2026 20:12
 3cee95d8-ade2-4ec4-968d-0a24c2239140,carpetbag.party,available,5.25,6.25,medium,low,9,namesilo,,,11/08/2026 19:44
 e69c4d04-1919-43b6-a3d8-274d0d990c38,tirana.party,available,5.25,6.25,high,low,6,namesilo,,,18/09/2026 02:27
 ca89d6f5-b6ec-4836-8989-140e9a07b1f2,homespun.party,premium,437.5,62.5,high,low,8,name.com,,,13/08/2026 04:23
 7d27231b-c16b-4675-89ff-594404880674,streaky.party,available,5.25,6.25,medium,low,7,namesilo,,,10/09/2026 22:22
 bba76d77-cdef-4a77-b378-6787e6b92976,peregrine.party,premium,437.5,62.5,medium,low,9,name.com,,,25/08/2026 02:20
-3190fa00-a00a-4133-8c5b-f4ad320e9353,demonstrated.party,available,5.25,6.25,high,low,12,namesilo,,,17/09/2026 21:56
+3190fa00-a00a-4133-8c5b-f4ad320e9353,demonstrated.party,available,5.25,6.25,medium,low,12,namesilo,,,17/09/2026 21:56
 4b369845-e83b-413f-8a9e-24dff3835759,entrance.party,premium,437.5,62.5,high,low,8,name.com,,,22/08/2026 01:46
 6b950196-7fd9-4fb8-b61b-7326dd844420,latticed.party,available,5.25,6.25,medium,low,8,namesilo,,,22/08/2026 08:06
 de314558-01f4-4b6d-8eca-abaf2af18dc4,bigos.party,available,5.25,6.25,medium,low,5,namesilo,,,23/09/2026 15:19
@@ -44,7 +45,7 @@ e28dcd39-f63f-4cdc-aa31-6135afb11e45,jabber.party,available,,,high,low,6,,,,
 2093c297-160e-492e-82d6-f720a0ae8698,outgoing.party,available,5.25,6.25,high,low,8,namesilo,,,18/08/2026 12:37
 2905e18d-db76-4037-8bdf-3313f1d37cb2,egoist.party,available,5.25,6.25,medium,low,6,namesilo,,,15/08/2026 19:43
 bcda0704-67e5-4735-a6a0-b8a0e914314e,leery.party,available,5.25,6.25,medium,low,5,namesilo,,,22/08/2026 22:26
-9bfd6e8a-d8f6-4a40-b61b-3b4ffdee518e,evanescent.party,available,5.25,6.25,high,low,10,namesilo,,,17/08/2026 14:37
+9bfd6e8a-d8f6-4a40-b61b-3b4ffdee518e,evanescent.party,available,5.25,6.25,medium,low,10,namesilo,,,17/08/2026 14:37
 7b77a73f-c84c-4b1f-94ec-49280999eb40,medicinal.party,premium,437.5,62.5,high,low,9,name.com,,,24/08/2026 19:01
 26195010-22a8-4dc3-a597-05307a405f37,beefcake.party,premium,455,65,medium,low,8,namecheap,,,23/09/2026 01:06
 735a980e-8458-438a-aeb2-9b8ab5f1210a,arctangent.party,available,5.25,6.25,medium,low,10,namesilo,,,20/09/2026 01:30
@@ -55,6 +56,7 @@ d8b570cd-7dc3-4838-9348-ce072e04d17b,alder.party,premium,455,65,high,low,5,namec
 dff57882-c489-4136-b7e3-a7d6a2e16581,excitement.party,premium,448,53.92,high,low,10,namesilo,,,25/09/2026 05:50
 0d9e050f-9acc-442d-8565-7fbceb81421d,literatim.party,available,5.25,6.25,medium,low,9,namesilo,,,15/09/2026 12:34
 53e5092e-ee8a-4fe3-989d-6540b455f299,orangish.party,available,5.25,6.25,medium,low,8,namesilo,,,04/09/2026 17:26
+01fed365-a72e-4729-a8be-1cadeb64e2c2,constitution.party,resell,,,high,low,12,,,,27/09/2026 16:44
 c31b9334-f295-4beb-8679-3588d9b04d1f,equable.party,available,5.25,6.25,medium,low,7,namesilo,,,17/08/2026 11:33
 646eb142-f2d3-49e5-bdfc-273dad8da7df,cohesive.party,premium,437.5,62.5,high,low,8,name.com,,,12/08/2026 16:05
 6559280b-782a-4fd7-8fd9-c9f962d433fb,seraphic.party,available,5.25,6.25,high,low,8,namesilo,,,12/08/2026 04:26
@@ -72,7 +74,6 @@ b522ff35-4a39-479f-8164-02a2faebb1bf,cups.party,premium,640,77.35,medium,low,4,n
 fc7bc5c2-3100-4ad8-b391-d49e39cc80eb,bettor.party,available,5.25,6.25,high,low,6,namesilo,,,23/09/2026 11:49
 09ebd7d2-52b4-442a-988c-ddf12d8d41d9,homey.party,premium,437.5,62.5,high,low,5,name.com,,,21/08/2026 11:06
 38787b34-da4e-44bb-9c66-b03b09e7c870,grantee.party,available,5.25,6.25,medium,low,7,namesilo,,,18/09/2026 07:39
-d57d6978-a832-40d5-8e3e-88bfa9aa61e3,smiling.party,available,,,high,low,7,,,,
 5d941ca7-cc40-4972-a960-c2628c5b9cca,shattering.party,premium,640,77.35,high,medium,10,namesilo,,,10/09/2026 06:06
 f985dd9c-8497-430e-91de-b7a3d89d1deb,quieten.party,available,5.25,6.25,medium,low,7,namesilo,,,11/08/2026 15:02
 dbb9c767-1271-4829-b896-ab8842738563,sterilised.party,available,5.98,9.98,medium,low,10,namecheap,,,10/09/2026 20:13
@@ -81,7 +82,7 @@ cc6a3fe7-e498-4e71-a3b5-d9797a107909,eagle.party,premium,650,84.5,high,low,5,nam
 9b7dd39d-de21-41e5-b596-4aeffcd560c8,queensland.party,available,5.25,6.25,high,low,10,namesilo,,,25/09/2026 10:12
 c9716ebe-adae-4e15-b7de-258a4d684e90,episodic.party,available,5.25,6.25,medium,low,8,namesilo,,,17/08/2026 11:11
 8a1d00c2-97a1-4ecc-a11e-69d0cdd193b7,sacrosanct.party,available,5.25,6.25,high,medium,10,namesilo,,,09/09/2026 20:39
-4f2cd6d5-7b7d-41e5-b86a-2d573818f377,dutiful.party,available,5.25,6.25,high,low,7,namesilo,,,14/08/2026 21:39
+4f2cd6d5-7b7d-41e5-b86a-2d573818f377,dutiful.party,available,5.25,6.25,medium,low,7,namesilo,,,14/08/2026 21:39
 74d2b137-9fd1-49f3-967f-6011b7781e18,sublunar.party,available,5.25,6.25,medium,low,8,namesilo,,,12/08/2026 08:27
 aff39122-0fdb-4a01-8fe8-3822bff17178,bisexual.party,premium,437.5,62.5,high,low,8,name.com,,,10/08/2026 06:14
 ccabce30-1c36-40d3-801d-6eeb06ac085d,thankless.party,available,5.25,6.25,medium,low,9,namesilo,,,11/09/2026 12:28
@@ -93,12 +94,13 @@ a5c183f2-f7d2-4cab-acb7-9d31d6eb2e5b,superbly.party,available,5.25,6.25,high,low
 c640f55d-240c-4203-b4c9-fe4f8a917edb,chuffed.party,available,5.25,6.25,high,low,7,namesilo,,,12/08/2026 07:37
 ae8cf37d-3ec4-4bfc-9bf9-abe60f107770,smithsonian.party,premium,1107,116,high,low,11,namesilo,,,25/09/2026 12:40
 e29db858-481d-482a-bcc5-a254372d52a3,equid.party,available,5.25,6.25,medium,low,5,namesilo,,,17/08/2026 11:47
-c90c26c8-20db-47ef-b695-5f650b830fc6,roomy.party,available,,,high,low,5,,,,
 732c4a55-44c2-4ad4-b07d-30bd657e4c75,copious.party,available,5.25,6.25,high,low,7,namesilo,,,13/08/2026 00:28
 53b60d55-95b7-45d2-8da8-f1402f663731,advice.party,available,,,high,low,6,,,,
 51b5767c-d055-42bd-b587-bcf07719f5fa,accusive.party,available,5.25,6.25,low,low,8,namesilo,,,
+9b378c27-960d-46db-93a7-e57984e685cd,willoughby.party,available,5.25,6.25,high,low,10,namesilo,,,28/09/2026 00:32
 9bc86dce-6b36-48e3-8931-daeaf45d96f1,thousand.party,premium,448,53.92,high,low,8,namesilo,,,21/09/2026 11:02
 5e5ba630-1295-4c8f-9915-6b2d52dbd6ee,sightless.party,available,5.25,6.25,high,medium,9,namesilo,,,10/09/2026 07:56
+e5e89864-15ac-4d5b-880a-2853eda404e4,holland.party,resell,,,high,low,7,,,,28/09/2026 02:07
 757896cc-0ad4-4eba-8fbd-f366fc91bc0b,switched.party,premium,448,53.92,medium,low,8,namesilo,,,27/09/2026 09:43
 f1e5bf77-6aad-451f-b699-0fcd8c8968fc,unwitting.party,available,5.25,6.25,medium,low,9,namesilo,,,12/09/2026 14:24
 a2e25330-8e8e-419c-a737-db6c7302409d,corpulent.party,available,5.25,6.25,medium,low,9,namesilo,,,13/08/2026 01:57
@@ -123,7 +125,7 @@ f9ab53a1-0b1e-49c3-a8bf-039f25d85002,appellate.party,available,5.25,6.25,medium,
 5eed5a4a-2cb7-4a52-8b5a-87c49613a86d,agassiz.party,available,5.25,6.25,medium,low,7,namesilo,,,17/09/2026 16:23
 041f3c44-2bb3-4062-9202-7ca570fc7d92,loved.party,available,5.25,6.25,high,low,5,namesilo,,,25/09/2026 14:27
 d7cf9e49-db22-4e53-9065-bf99374d0014,rarefied.party,available,5.25,6.25,medium,low,8,namesilo,,,17/08/2026 15:44
-6f530bb9-d3ac-480d-a25b-28cbd846fa82,nazimova.party,available,5.25,6.25,high,low,8,namesilo,,,18/09/2026 09:38
+6f530bb9-d3ac-480d-a25b-28cbd846fa82,nazimova.party,available,5.25,6.25,medium,low,8,namesilo,,,18/09/2026 09:38
 327370bc-34f1-4c95-bf1c-17360196fa13,lure.party,premium,448,53.92,high,low,4,namesilo,,,21/09/2026 19:43
 1f03f8da-ab97-495a-b23f-09a6beba3b7c,dodo.party,premium,455,65,high,high,4,namecheap,,,19/09/2026 18:36
 fe16418c-e209-4a11-9bd2-c446f6dce839,possibly.party,available,9.98,,high,low,8,namecheap,,,
@@ -141,7 +143,6 @@ aec7427d-4275-49f7-83f3-6a35769128f9,dazzled.party,available,34.99,37.99,high,lo
 8b840385-2aae-48e0-b0fc-b2e0ce88f98c,conciliate.party,available,5.25,6.25,high,low,10,namesilo,,,18/08/2026 22:04
 d98b1041-bfe5-4f0a-a3b7-07b6b6f89445,stannic.party,available,5.25,6.25,low,low,7,namesilo,,,10/09/2026 18:41
 c183bfeb-9cde-49ae-9b25-b8d63af62933,homozygous.party,available,5.25,6.25,medium,low,10,namesilo,,,21/08/2026 13:12
-3eb3535a-2510-485d-92d5-255f0b432c1c,swing.party,available,,,high,low,5,,,,
 12ff7497-5ed9-4d27-adbd-530520b0e764,connected.party,premium,448,53.92,high,medium,9,namesilo,,,19/09/2026 11:24
 db529332-2b21-4cd2-8f89-36d519c26b26,malicious.party,premium,437.5,62.5,medium,low,9,name.com,,,24/08/2026 14:02
 35023e6e-ca20-474f-a77e-e35bf44b0af0,freshness.party,available,5.25,6.25,high,low,9,namesilo,,,24/09/2026 14:06
@@ -150,7 +151,7 @@ a649d1da-18b7-4eec-ba5f-ef1c1862849f,cosmologic.party,available,5.25,6.25,medium
 c0ad631b-7262-4f74-85e8-d54694b60d95,corruption.party,premium,437.5,,medium,low,10,name.com,,,
 e425a4f8-6ad5-4e5a-8123-1f4eb28a5385,lakh.party,available,5.25,6.25,medium,low,4,namesilo,,,21/08/2026 15:36
 9cbc1b55-cc97-4bea-a142-22059aed880f,apposite.party,premium,437.5,62.5,medium,low,8,name.com,,,06/08/2026 07:53
-49f810b9-c35b-4612-917e-0ff0267e789f,attended.party,available,5.25,6.25,high,low,8,namesilo,,,22/09/2026 11:17
+49f810b9-c35b-4612-917e-0ff0267e789f,attended.party,available,5.25,6.25,medium,low,8,namesilo,,,22/09/2026 11:17
 498ac63a-dfcd-40ed-9bdb-5e3115427630,drying.party,available,5.25,6.25,high,low,6,namesilo,,,16/09/2026 09:24
 99b089dd-0afb-438b-85ce-c444cf62f113,bitewing.party,available,5.25,6.25,medium,low,8,namesilo,,,23/09/2026 22:28
 a54563f8-9e5d-4d53-b460-57d20aa9177b,salable.party,available,5.98,9.98,high,medium,7,namecheap,,,09/09/2026 20:50
@@ -180,7 +181,7 @@ eab76699-1c20-4830-a428-1626bbc4908d,blanch.party,available,5.25,6.25,medium,low
 f58a6328-93bc-4059-b5ab-16d83e5c3912,ballista.party,premium,448,53.92,medium,low,8,namesilo,,,20/09/2026 00:35
 16cd17ce-805b-4a6f-b236-ba93dd1e77ef,sonsy.party,available,5.25,6.25,medium,low,5,namesilo,,,10/08/2026 20:35
 83092262-1ffb-4808-aebe-9675104463db,nation.party,available,,,high,low,6,,,,
-124d7c0e-98fc-4df0-a572-a76fb064ac28,same.party,premium,625,,high,low,4,name.com,,,
+124d7c0e-98fc-4df0-a572-a76fb064ac28,same.party,premium,625,,high,low,4,name.com,,,27/09/2026 17:53
 032fd22c-46b6-4594-8b4a-d8c360937a10,dignified.party,premium,448,53.92,high,low,9,namesilo,,,24/09/2026 08:18
 4d4b913e-453b-43ae-8b02-231d4a944ab2,philanthropic.party,premium,437.5,,high,low,13,name.com,,,
 36352d41-f5b7-4e48-952b-9d7c78c61713,unmediated.party,available,5.25,6.25,medium,low,10,namesilo,,,12/09/2026 15:32
@@ -204,11 +205,11 @@ e4539cc8-5a94-419f-be98-8ae997c8707a,airily.party,available,5.25,6.25,low,low,6,
 4c4eccda-220a-41ba-8971-d4b6a9fb7871,detox.party,premium,12500,,high,low,5,name.com,,,
 b5b70089-a91b-4629-a803-c93107653432,marooned.party,available,5.25,6.25,medium,low,8,namesilo,,,25/09/2026 16:58
 b2103b26-1974-4fd0-853d-f04efcac1543,distorted.party,available,5.25,6.25,medium,low,9,namesilo,,,13/08/2026 23:39
-d8b68bb2-6e31-45c2-999d-48b13e63498f,executives.party,premium,448,53.92,high,low,10,namesilo,,,21/09/2026 01:35
+d8b68bb2-6e31-45c2-999d-48b13e63498f,executives.party,premium,448,53.92,medium,low,10,namesilo,,,21/09/2026 01:35
 8926ac85-8cb7-455d-8be0-d52159a8d050,blt.party,premium,640,77.35,high,low,3,namesilo,,,21/09/2026 16:25
 a13669e9-3667-4802-815a-9dcb4089697a,nutbrown.party,available,5.25,6.25,medium,low,8,namesilo,,,03/09/2026 23:14
 df76c983-0d89-4dbc-8c93-dec65880e894,civic.party,premium,1107,116,high,low,5,namesilo,,,12/08/2026 09:01
-521e7fd2-2207-46ef-ac55-311844117968,episcopal.party,available,5.25,6.25,high,low,9,namesilo,,,17/08/2026 11:09
+521e7fd2-2207-46ef-ac55-311844117968,episcopal.party,available,5.25,6.25,medium,low,9,namesilo,,,17/08/2026 11:09
 d12af748-c7d5-497c-a990-545715a3be43,benet.party,premium,448,53.92,high,low,5,namesilo,,,23/09/2026 07:58
 f7dbced9-602f-403c-92b9-234cba6543f5,unstarred.party,available,5.25,6.25,medium,low,9,namesilo,,,12/09/2026 01:15
 81d593fe-b0c0-4edd-8de3-6a2df72b8f74,definitive.party,premium,437.5,62.5,high,low,10,name.com,,,12/08/2026 09:45
@@ -237,7 +238,7 @@ da66551d-cb16-4dbb-b4ec-eaec1d24b1a2,alienist.party,available,5.98,9.98,medium,l
 e4e8842c-a56f-4629-a161-c118b3ad9416,retaliator.party,available,5.98,9.98,medium,low,10,namecheap,,,21/09/2026 08:57
 18eedacf-917d-4cfa-8412-1e39a8ebaa24,opencut.party,available,5.25,6.25,medium,low,7,namesilo,,,04/09/2026 16:10
 26d41649-b211-4ed6-a52b-0f08f7648dff,publicity.party,premium,437.5,,high,low,9,name.com,,,
-d517218e-d64d-42e3-b9f1-4624afaa748d,backbend.party,available,5.98,9.98,high,low,8,namecheap,,,21/09/2026 15:01
+d517218e-d64d-42e3-b9f1-4624afaa748d,backbend.party,available,5.98,9.98,medium,low,8,namecheap,,,21/09/2026 15:01
 3de214e5-e41d-4a14-94ee-4b0ed2fcbd4a,swingy.party,available,5.25,6.25,medium,low,6,namesilo,,,23/08/2026 09:29
 477f106c-93d3-415b-a5e2-7d80be8d4912,kathleen.party,available,5.98,9.98,high,low,8,namecheap,,,25/09/2026 14:34
 4b8a8413-3db1-44b1-824c-e262f9662942,dishcloth.party,available,5.25,6.25,medium,low,9,namesilo,,,24/09/2026 22:40
@@ -253,6 +254,7 @@ b0173d25-76f0-4307-9405-3b705ad54a6b,cardigan.party,available,5.98,9.98,high,low
 4036ac70-e0dd-41f7-87b5-07e0da5399ca,incan.party,available,5.25,6.25,medium,low,5,namesilo,,,22/08/2026 00:44
 60044bd5-a1d1-4305-8c39-99bde519b822,looted.party,available,5.25,6.25,medium,low,6,namesilo,,,24/08/2026 09:45
 26644f86-2715-4aab-a2c9-5538adc2048b,passenger.party,premium,455,65,high,low,9,namecheap,,,27/09/2026 04:56
+cd454fb1-e118-4ba6-8bbb-cbb66c0ae863,zimmerman.party,available,5.25,6.25,medium,low,9,namesilo,,,27/09/2026 20:41
 6d4328e7-13d7-4cd7-bce3-6239231ce217,recurrent.party,premium,448,53.92,high,low,9,namesilo,,,09/09/2026 11:57
 4ec85eb2-c400-4bcf-bbb9-f5e023b16b55,sprucely.party,available,5.25,6.25,medium,low,8,namesilo,,,15/09/2026 15:17
 eabe70f6-05d7-40e4-ab6b-1312d8162837,slavonic.party,available,5.25,6.25,high,low,8,namesilo,,,10/09/2026 10:34
@@ -263,7 +265,7 @@ cd4b3f92-6799-49ee-af3d-d2c41477242d,agnosia.party,available,5.25,6.25,medium,lo
 0e48b500-0419-4e23-a549-73d27bcccdbf,obsessive.party,premium,448,53.92,high,low,9,namesilo,,,25/09/2026 23:45
 83eb670d-9344-4a11-bfc5-bcd7d01b830c,equally.party,available,5.25,6.25,high,low,7,namesilo,,,
 82ffeab3-4b17-4cf7-b148-41412cb537af,belted.party,available,5.25,6.25,medium,low,6,namesilo,,,09/08/2026 14:02
-37d15a5d-a143-4330-9db0-1a05a1be17fc,derelict.party,available,5.25,6.25,high,low,8,namesilo,,,21/09/2026 13:39
+37d15a5d-a143-4330-9db0-1a05a1be17fc,derelict.party,available,5.25,6.25,medium,low,8,namesilo,,,21/09/2026 13:39
 0a9f19b5-acd0-489a-9c7c-53bca3b2c83a,cattleman.party,premium,448,53.92,high,low,9,namesilo,,,23/09/2026 00:40
 0f05e674-7e3c-4ce4-a599-3131ca90b835,fixture.party,available,5.25,6.25,high,medium,7,namesilo,,,09/09/2026 13:04
 2977ccb1-3f11-4976-8608-ccabc842f63c,gaol.party,available,5.25,6.25,medium,low,4,namesilo,,,08/09/2026 22:46
@@ -289,7 +291,7 @@ d378f62f-cdbf-414a-9069-db4d5a16e66c,apneic.party,available,5.25,6.25,medium,low
 1e243853-03d3-47a0-ae6f-77bc85c0582d,denied.party,available,5.25,6.25,low,low,6,namesilo,,,27/09/2026 02:21
 d322c631-8dfb-4009-89cf-f978564484dc,stunted.party,available,5.25,6.25,medium,low,7,namesilo,,,10/09/2026 23:04
 d987d269-b9ca-429c-b7b3-35fcd89baf72,bluetooth.party,available,9.98,,high,low,9,namecheap,,,
-3d6fa998-b3aa-4e27-9f18-3a853bed06aa,isotropic.party,available,5.25,6.25,high,low,9,namesilo,,,22/08/2026 11:28
+3d6fa998-b3aa-4e27-9f18-3a853bed06aa,isotropic.party,available,5.25,6.25,medium,low,9,namesilo,,,22/08/2026 11:28
 f0d0c89a-bda1-448f-8217-46fcd1870bb5,invisible.party,premium,448,53.92,high,low,9,namesilo,,,25/09/2026 08:03
 05748755-c244-495c-b9f0-166bad31a78a,anorexia.party,available,5.25,6.25,medium,low,8,namesilo,,,19/09/2026 11:46
 297869f9-ce1c-4a29-911c-9a1365b11987,coordinate.party,premium,448,53.92,high,low,10,namesilo,,,08/09/2026 03:35
@@ -303,7 +305,7 @@ e7f894f7-99ac-44ff-bf36-632977dce34d,hertzian.party,available,5.25,6.25,medium,l
 7946eef7-90a4-4a58-b4b8-42bee030c926,embryonic.party,available,5.25,6.25,medium,low,9,namesilo,,,16/08/2026 13:28
 d93c819e-5bea-4211-b0aa-d7f863a63cd1,millennium.party,available,5.25,6.25,high,low,10,namesilo,,,24/08/2026 23:15
 e19aae1b-28a3-4577-81fa-2feecd7b5769,bimonthly.party,available,5.25,6.25,high,low,9,namesilo,,,09/08/2026 22:42
-22972d96-c6d7-4439-8017-2ed773b5ef55,larder.party,available,5.25,6.25,high,low,6,namesilo,,,11/08/2026 11:56
+22972d96-c6d7-4439-8017-2ed773b5ef55,larder.party,available,5.25,6.25,medium,low,6,namesilo,,,11/08/2026 11:56
 e6b2d243-f8b1-4d06-b029-de1e15da6f6a,socialised.party,available,5.25,6.25,medium,low,10,namesilo,,,10/09/2026 13:14
 05c5670d-1e5f-4c89-bffb-203e9a1bfc6a,gradable.party,available,5.25,6.25,medium,low,8,namesilo,,,08/09/2026 03:31
 e7dc27a0-e5f9-42ec-96c8-ac3ca03fc30e,neighborly.party,premium,448,53.92,high,low,10,namesilo,,,03/09/2026 15:16
@@ -341,7 +343,7 @@ a0723fcf-1b0c-4891-b090-8ce725ffbf50,baht.party,available,5.25,6.25,medium,low,4
 5acfe909-6a83-4114-ae4f-582af882771e,extensible.party,available,5.98,9.98,medium,low,10,namecheap,,,17/08/2026 19:03
 1e161f5a-e6df-4769-b127-0a4e05a107e9,nowadays.party,available,5.25,6.25,high,low,8,namesilo,,,27/09/2026 05:06
 c408bfa9-d8ae-4e5f-9908-909662b9edad,primitive.party,premium,455,65,high,low,9,namecheap,,,27/09/2026 05:47
-4ddcb32e-e171-4f18-8179-2b432181ce48,duckbill.party,premium,437.5,62.5,high,low,8,name.com,,,14/08/2026 20:46
+4ddcb32e-e171-4f18-8179-2b432181ce48,duckbill.party,premium,437.5,62.5,medium,low,8,name.com,,,14/08/2026 20:46
 4b45ac0f-e363-4c31-b731-ceda8def8356,abvolt.party,available,5.98,9.98,medium,low,6,namecheap,,,16/09/2026 19:39
 e87decea-5cc0-4d78-9212-41497e34f52d,adenium.party,available,5.25,6.25,medium,low,7,namesilo,,,17/09/2026 07:28
 47fd3963-5b63-42b5-afbc-7a60c8c7f342,xiv.party,premium,650,84.5,high,low,3,namecheap,,,21/09/2026 11:42
@@ -350,7 +352,7 @@ e87decea-5cc0-4d78-9212-41497e34f52d,adenium.party,available,5.25,6.25,medium,lo
 baaed1f3-0899-4780-a316-5d5203c294d3,genuinely.party,available,5.25,6.25,high,low,9,namesilo,,,
 76d0e39d-63c4-48f2-a5ae-110a4e22c90e,scrupulous.party,available,5.25,6.25,high,low,10,namesilo,,,12/08/2026 22:22
 d8ff87f5-160d-4e81-95f7-0a68a38ef592,gandhian.party,available,5.98,9.98,high,low,8,namecheap,,,18/08/2026 20:06
-11aee557-7757-4460-8522-11063a0359a3,secondly.party,available,5.25,6.25,medium,low,8,namesilo,,,
+11aee557-7757-4460-8522-11063a0359a3,secondly.party,available,4.18,5.18,medium,low,8,cloudflare,,,27/09/2026 19:26
 ed2f8d8e-b528-461b-883f-18ebd99ec2cb,documented.party,premium,448,53.92,high,low,10,namesilo,,,22/09/2026 11:37
 add53ab3-0421-4c63-b86f-d225805f035d,nobelium.party,available,5.98,9.98,medium,low,8,namecheap,,,20/09/2026 21:58
 db5ff39d-1553-42b6-b982-5f118d6aee7c,pcp.party,premium,650,84.5,high,low,3,namecheap,,,19/09/2026 05:52
@@ -361,15 +363,15 @@ db5ff39d-1553-42b6-b982-5f118d6aee7c,pcp.party,premium,650,84.5,high,low,3,namec
 ab29e31d-1303-4802-a6c0-7d3a32890511,addax.party,premium,455,65,medium,low,5,namecheap,,,17/09/2026 06:40
 9a59218f-a474-4627-998b-b391ee249771,enkindled.party,available,5.25,6.25,medium,low,9,namesilo,,,17/08/2026 09:31
 74eebe67-a8e1-4c6e-84e7-88c5d15f08d0,bilberry.party,available,5.25,6.25,medium,low,8,namesilo,,,23/09/2026 15:37
-f153b0f6-9067-44ba-9bd5-a7985451b8e2,whopping.party,premium,437.5,62.5,high,low,8,name.com,,,08/08/2026 13:14
+f153b0f6-9067-44ba-9bd5-a7985451b8e2,whopping.party,premium,437.5,62.5,medium,low,8,name.com,,,08/08/2026 13:14
 c54a53dc-1798-40ec-b978-11234ef0ea99,glue.party,premium,625,,high,low,4,name.com,,,
 42d4f6cd-d20d-4c4b-83d7-f3394de8e8c0,pedestrian.party,available,5.25,6.25,high,low,10,namesilo,,,08/09/2026 12:28
 3c7fbf4f-6828-4a0b-a30a-05644aa325cc,towering.party,available,5.98,9.98,high,low,8,namecheap,,,11/09/2026 18:24
-4d16fde3-740f-4c2c-9f27-ea805efa7b41,summerset.party,available,5.25,6.25,high,low,9,namesilo,,,18/08/2026 08:29
+4d16fde3-740f-4c2c-9f27-ea805efa7b41,summerset.party,available,5.25,6.25,medium,low,9,namesilo,,,18/08/2026 08:29
 626fa3fe-e79d-41f2-9133-67c1067243bf,doorbell.party,premium,448,53.92,high,low,8,namesilo,,,24/09/2026 11:23
 741b71f2-e2f8-4e50-907c-e5757a4db1ff,canonical.party,premium,437.5,62.5,high,low,9,name.com,,,11/08/2026 17:23
 7c6a40a3-cf6f-408b-8aa5-dc2f0925e071,arapahoe.party,available,5.25,6.25,medium,low,8,namesilo,,,20/09/2026 00:11
-14995b4a-fd58-4b0b-b48e-e7fdbb46cd4d,restricted.party,available,9.98,,high,low,10,namecheap,,,
+14995b4a-fd58-4b0b-b48e-e7fdbb46cd4d,restricted.party,available,4.18,5.18,high,low,10,cloudflare,,,27/09/2026 13:02
 25cb50fb-ee3c-48e2-a778-8f6c1e090500,hammy.party,available,5.25,6.25,medium,low,5,namesilo,,,20/08/2026 23:05
 3dbcd7cc-762c-408e-89af-3304d86c9338,movement.party,premium,437.5,,high,low,8,name.com,,,
 0f802a70-521c-4569-9997-b2636be12506,earthborn.party,premium,437.5,62.5,medium,low,9,name.com,,,14/08/2026 22:35
@@ -377,7 +379,7 @@ c54a53dc-1798-40ec-b978-11234ef0ea99,glue.party,premium,625,,high,low,4,name.com
 7d05f1fd-68ce-4dba-81d4-272b5ad42ba1,jawed.party,available,5.25,6.25,medium,low,5,namesilo,,,22/08/2026 12:32
 43b2774e-91b3-446f-b9dd-c0f9e798bf5f,persisted.party,available,5.25,6.25,medium,low,9,namesilo,,,18/09/2026 08:42
 fd642e38-b269-4761-abea-00da398e28c3,overripe.party,available,5.25,6.25,medium,low,8,namesilo,,,04/09/2026 21:44
-3c329d5d-d578-4bca-a3e2-825f27e1e17f,astrolabe.party,premium,448,53.92,high,low,9,namesilo,,,20/09/2026 17:43
+3c329d5d-d578-4bca-a3e2-825f27e1e17f,astrolabe.party,premium,448,53.92,medium,low,9,namesilo,,,20/09/2026 17:43
 3b4219f2-993a-4794-8ac5-65fc133cc597,reciprocal.party,premium,448,53.92,high,low,10,namesilo,,,09/09/2026 11:29
 8435e71b-5a34-49b6-9bac-ba330bad58fd,smoothly.party,available,5.25,6.25,high,low,8,namesilo,,,16/09/2026 02:56
 b5afaa32-2a50-45dd-926d-fa7d9f1f3a47,opportunity.party,available,5.25,6.25,high,low,11,namesilo,,,27/09/2026 02:17
@@ -389,12 +391,12 @@ b5afaa32-2a50-45dd-926d-fa7d9f1f3a47,opportunity.party,available,5.25,6.25,high,
 a118385b-f62f-4886-bb69-ba7f1bb04a4f,manageable.party,premium,448,53.92,high,low,10,namesilo,,,21/09/2026 15:48
 7bac1e66-05fc-4583-bb6a-959e0ef68692,barrelfish.party,available,5.25,6.25,medium,low,10,namesilo,,,22/09/2026 08:20
 14b91981-3b33-4154-a146-3a08ae320eab,robotic.party,resell,,,high,low,7,Dynadot Inc,18/12/2023 08:05,18/12/2026 08:05,26/09/2026 08:42
-db01f28d-00a5-4c9b-85f3-ae2fe29c9d9c,yuck.party,premium,1107,116,high,low,4,namesilo,,,
+db01f28d-00a5-4c9b-85f3-ae2fe29c9d9c,yuck.party,premium,1107,116,medium,low,4,namesilo,,,
 3037de71-27e4-499c-9077-2aab8625fdb5,structure.party,premium,448,53.92,high,low,9,namesilo,,,25/09/2026 03:58
 75b1254b-08c0-447c-a981-4379cf3d057e,groping.party,available,5.98,9.98,medium,low,7,namecheap,,,20/08/2026 20:18
 d19db567-ad42-4bd6-9c86-d4cc0104b326,pochard.party,available,5.25,6.25,medium,low,7,namesilo,,,21/09/2026 10:48
 1a1095ee-40b1-4313-b1ba-f3b65edda4b2,laotian.party,available,5.25,6.25,medium,low,7,namesilo,,,22/08/2026 19:36
-5eb1269c-e384-4c32-b9df-f2a233d416c9,philippine.party,premium,437.5,62.5,high,low,10,name.com,,,18/08/2026 04:21
+5eb1269c-e384-4c32-b9df-f2a233d416c9,philippine.party,premium,437.5,62.5,medium,low,10,name.com,,,18/08/2026 04:21
 3ef8bdec-458a-41f6-a54e-8a85740f5fb3,reservations.party,available,5.98,9.98,medium,low,12,namecheap,,,17/09/2026 23:30
 384fc977-373a-47da-a14d-fac8e841bde0,exchange.party,premium,448,53.92,high,low,8,namesilo,,,23/09/2026 13:38
 0d851612-76c5-4b14-b723-ffb6ef4a2fdb,baa.party,premium,625,81.25,high,low,3,name.com,,,10/08/2026 13:40
@@ -405,7 +407,7 @@ fb4e1ed2-4a88-4947-83c6-ea9bab193f6f,oozy.party,available,5.25,6.25,medium,low,4
 cf12bfc5-293a-4e0a-8e61-734db9a92f62,organiser.party,available,5.25,6.25,high,low,9,namesilo,,,20/09/2026 08:46
 dc79ea11-bc8f-432d-bdab-52de6a264628,scotchtape.party,available,5.25,6.25,high,low,11,namesilo,,,16/09/2026 11:38
 f811ad69-8099-4c69-9c8e-9bf9032a8393,harnessed.party,available,5.25,6.25,medium,low,9,namesilo,,,21/08/2026 01:05
-06e17111-8f36-4f0c-882a-20b7ce8226fc,matured.party,available,5.98,9.98,high,low,7,namecheap,,,18/08/2026 17:58
+06e17111-8f36-4f0c-882a-20b7ce8226fc,matured.party,available,5.98,9.98,medium,low,7,namecheap,,,18/08/2026 17:58
 78d82bcc-108d-4c76-8dc6-f0ea4dec814a,babyhood.party,premium,448,53.92,high,low,8,namesilo,,,21/09/2026 13:48
 94172464-aa8b-41ca-a219-ad277be101df,historic.party,premium,437.5,62.5,high,low,8,name.com,,,21/08/2026 09:51
 d78cead3-f89e-42d4-b15e-b0094e1b0d27,diligence.party,available,5.25,6.25,high,low,9,namesilo,,,
@@ -446,6 +448,7 @@ e92f3b52-6d1a-444b-beba-a28ccf38df8f,sod.party,premium,625,81.25,medium,low,3,na
 9df13a7f-94f5-4fbd-b36a-e860388fac49,anklets.party,available,5.25,6.25,medium,low,7,namesilo,,,19/09/2026 09:46
 6907dfaf-60f3-4364-9a0e-e63cc3ead48a,hill.party,premium,116,29.5,high,low,4,namesilo,,,
 645a1beb-be7b-4480-93dd-3e6322c6f2de,empathetic.party,available,5.25,6.25,high,low,10,namesilo,,,16/08/2026 16:43
+d585ae16-06c0-45ff-a904-13d20212ffec,crockett.party,premium,382.61,55.11,medium,low,8,porkbun,,,28/09/2026 01:43
 fe5bdf79-6e5a-4429-bab0-f038558e4207,finespun.party,available,5.25,6.25,medium,low,8,namesilo,,,18/08/2026 04:51
 b9fc39fc-65ac-4810-94f9-68f9dc43e3ce,delight.party,available,,,high,low,7,,,,
 a20c8cc3-0526-44dd-b028-18f67e78bdb7,raiser.party,available,34.99,37.99,medium,low,6,name.com,,,17/09/2026 19:22
@@ -453,14 +456,14 @@ a20c8cc3-0526-44dd-b028-18f67e78bdb7,raiser.party,available,34.99,37.99,medium,l
 abc5edf1-6492-476c-88eb-1359c7cfd25f,revenues.party,premium,448,53.92,medium,low,8,namesilo,,,25/09/2026 09:02
 c9792d55-73b4-4f48-ba95-4e1a4bd25635,unframed.party,premium,448,53.92,medium,low,8,namesilo,,,12/09/2026 10:41
 40181723-4f30-4441-bf1d-7525eccdeb8c,generators.party,premium,437.5,,medium,low,10,name.com,,,
-fdd28a24-026e-4da9-b3e3-fbff90b3c99d,nationally.party,available,5.25,6.25,high,low,10,namesilo,,,03/09/2026 13:44
-0cc80cdc-644c-4aea-8d4f-4523978da5d9,elusive.party,available,,,high,low,7,,,,
+fdd28a24-026e-4da9-b3e3-fbff90b3c99d,nationally.party,available,5.25,6.25,medium,low,10,namesilo,,,03/09/2026 13:44
+0cc80cdc-644c-4aea-8d4f-4523978da5d9,elusive.party,available,,,medium,low,7,,,,
 c5f034be-68db-48ff-95d4-99be05908374,interlaced.party,available,5.25,6.25,medium,low,10,namesilo,,,22/08/2026 08:04
 e2070f34-bab7-4432-989d-d6ae6ae626a4,inexplicit.party,available,5.25,6.25,medium,low,10,namesilo,,,21/08/2026 22:39
 a3e8ffe8-681e-4003-b9ee-13fd8cc1bf8b,bet.party,resell,,,high,medium,3,Key-Systems LLC,06/05/2017 00:42,06/05/2029 00:42,26/09/2026 04:23
 dd8db2a3-7773-490e-8cc6-586e500a0b52,reassuring.party,available,5.25,6.25,high,low,10,namesilo,,,09/09/2026 11:14
 ccc72785-995f-4842-9b07-89a59fb2759c,bracing.party,available,5.25,6.25,high,low,7,namesilo,,,11/08/2026 00:30
-5cf74cbf-78eb-419b-a63f-906657b895ce,thong.party,available,,,high,low,5,,,,
+5cf74cbf-78eb-419b-a63f-906657b895ce,thong.party,available,,,medium,low,5,,,,
 fed8d31d-7abd-4b2f-9ea7-cffb7f16d4f5,ventured.party,available,5.25,6.25,medium,low,8,namesilo,,,25/09/2026 06:03
 2845a66a-f7a5-45db-8268-ca8ca09dcf77,toll.party,premium,437.5,,high,medium,4,name.com,,,
 e5c05ed8-d022-4166-9f8e-8f54177bee83,stupefied.party,available,34.99,37.99,medium,low,9,name.com,,,13/08/2026 18:55
@@ -474,7 +477,7 @@ d18e5114-9408-45e5-9e80-e046be726f33,landward.party,available,5.25,6.25,medium,l
 7908ffd6-e021-444e-8e24-331535dbac5d,area.party,premium,3125,,high,low,4,name.com,,,
 2a118643-fb6b-40f7-b59a-2b49912d9b89,opposed.party,available,5.25,6.25,high,low,7,namesilo,,,04/09/2026 16:45
 5832ac26-493c-4982-8acb-f50f3cf459e2,hesperian.party,premium,437.5,62.5,medium,low,9,name.com,,,21/08/2026 07:27
-b2a531f8-ce16-49bc-aa69-695a9b79b194,ragweed.party,available,5.25,6.25,high,low,7,namesilo,,,23/09/2026 08:50
+b2a531f8-ce16-49bc-aa69-695a9b79b194,ragweed.party,available,5.25,6.25,medium,low,7,namesilo,,,23/09/2026 08:50
 72b68d2d-e634-48bc-997d-be2218a4d854,demands.party,available,5.25,6.25,low,low,7,namesilo,,,27/09/2026 10:52
 3a387178-07ff-42b9-ae82-955bbbf702fe,biotite.party,available,5.98,9.98,medium,low,7,namecheap,,,23/09/2026 19:13
 f3a8a42d-d2f3-4211-ad48-8a0aec7d4e83,piddle.party,available,5.25,6.25,medium,low,6,namesilo,,,13/09/2026 08:06
@@ -494,7 +497,7 @@ bf4085b4-7e33-41f3-952f-393d3802d8c8,combined.party,premium,437.5,62.5,high,low,
 8beac567-92a5-4221-8e4c-ec34ca3b7ddf,bindery.party,available,5.25,6.25,medium,low,7,namesilo,,,23/09/2026 17:11
 9947b71e-6bac-455b-956e-0a55eebda5d5,superman.party,available,5.25,6.25,high,low,8,namesilo,,,
 d1be1a7b-f0d4-47b8-bea9-fd8f55b9a1ab,ace.party,resell,,,high,medium,3,Key-Systems LLC,29/11/2017 22:51,29/11/2027 22:51,26/09/2026 01:20
-76bce747-0093-4398-b813-10958a593a82,bellyful.party,available,5.25,6.25,high,low,8,namesilo,,,23/09/2026 06:51
+76bce747-0093-4398-b813-10958a593a82,bellyful.party,available,5.25,6.25,medium,low,8,namesilo,,,23/09/2026 06:51
 d14c77f2-a4f9-4d78-a155-f51231c49372,incursive.party,available,5.25,6.25,medium,low,9,namesilo,,,22/08/2026 02:09
 3777b086-1dc3-468d-a072-61a5b1d3c949,windflower.party,available,5.25,6.25,high,low,10,namesilo,,,19/09/2026 05:19
 9d615879-abc8-4c5b-abe2-bad5ceff7469,immunized.party,available,5.98,9.98,medium,low,9,namecheap,,,21/08/2026 21:30
@@ -506,13 +509,13 @@ d60c536e-bc47-4cb9-a4d0-613eca262b25,jehovah.party,available,5.25,6.25,high,low,
 a3a2fb3e-90e4-44e7-a224-6900fc1a48b6,covering.party,available,5.25,6.25,high,low,8,namesilo,,,
 cdc77caf-6af6-46ca-b260-235839dc0ffd,inhabitant.party,available,5.25,6.25,high,low,10,namesilo,,,24/09/2026 21:51
 cca06f8d-7be0-4d3b-85bc-82328f09f93d,woven.party,available,,,high,low,5,,,,
-8b3b2290-19d9-4112-b240-da066cca704d,them.party,premium,437.5,,high,low,4,name.com,,,
+8b3b2290-19d9-4112-b240-da066cca704d,them.party,premium,437.5,,medium,low,4,name.com,,,
 88b63fae-88b4-4fc8-a771-f08e8207975b,poetical.party,available,5.25,6.25,high,low,8,namesilo,,,08/09/2026 22:34
 b5768df0-50fc-4242-a17c-5c3926e0b2a7,tingle.party,available,5.25,6.25,medium,low,6,namesilo,,,11/09/2026 16:11
 a99bd52a-89a8-48d0-b920-bfea47ee4c3b,sacredly.party,available,5.25,6.25,medium,low,8,namesilo,,,15/09/2026 23:01
 745574c2-7b22-412b-b74e-aaee996a1c65,prelate.party,available,5.25,6.25,medium,low,7,namesilo,,,20/09/2026 02:36
 81616321-a32e-474e-b1c3-db696521fbd2,phelps.party,available,5.98,9.98,high,low,6,namecheap,,,25/09/2026 18:39
-278d9494-7dac-4f1a-8085-643e0ad0c4a0,birthmark.party,premium,455,65,high,low,9,namecheap,,,23/09/2026 21:13
+278d9494-7dac-4f1a-8085-643e0ad0c4a0,birthmark.party,premium,455,65,medium,low,9,namecheap,,,23/09/2026 21:13
 b9b5474c-6d6a-4170-a041-5f900f088c99,filiform.party,available,5.25,6.25,medium,low,8,namesilo,,,18/08/2026 04:04
 a46fd884-a1ae-4588-b2bc-845664b030f6,fontenoy.party,available,5.25,6.25,medium,low,8,namesilo,,,22/09/2026 15:04
 49ffd022-42b2-41b2-986a-542e39a3b881,stared.party,available,5.25,6.25,medium,low,6,namesilo,,,18/09/2026 02:18
@@ -532,6 +535,7 @@ cd7d1895-8eb8-4c82-ae26-7eb1312d6066,drily.party,available,5.25,6.25,medium,low,
 c8e9eaf0-fc51-4df5-8c71-7edfa398fcc0,withal.party,available,5.98,9.98,medium,low,6,namecheap,,,13/09/2026 18:51
 5a4d66c1-1f83-4041-8365-733b2591f0e3,lallygag.party,available,5.25,6.25,medium,low,8,namesilo,,,11/09/2026 08:33
 ea38d3e6-8b35-4148-bb22-419116de62cf,bony.party,premium,437.5,62.5,medium,low,4,name.com,,,10/08/2026 18:42
+dc677aa9-a135-4bd9-8685-4c51966374bf,colby.party,premium,362.45,51.95,high,low,5,spaceship,,,28/09/2026 00:47
 11f21efd-5c15-4d10-92a8-2c34d500349c,preeminent.party,available,5.25,6.25,high,medium,10,namesilo,,,09/09/2026 01:32
 eaa1cc50-784a-4f8a-9ef4-7e50d43ab9ea,allowance.party,premium,437.5,,high,low,9,name.com,,,
 6a7e62d3-b60a-4ddd-8a5d-9f67ee2ebade,trolling.party,premium,437.5,,medium,low,8,name.com,,,
@@ -556,7 +560,7 @@ a11658c4-55ed-4257-8aec-a45c16d734a7,enduring.party,available,5.25,6.25,high,low
 a77b3cd6-e878-4644-9063-f5f68f0e4e9b,prismatic.party,premium,448,53.92,high,low,9,namesilo,,,09/09/2026 02:09
 7df49ff6-1c90-4afa-9e22-f098fcf458eb,aardvark.party,premium,448,53.92,high,low,8,namesilo,,,16/09/2026 13:21
 a77176cb-5fc0-44e0-a070-575cf9cc3c66,verb.party,premium,437.5,,high,low,4,name.com,,,
-65371c0e-9efb-48d4-9dd1-06e7c250eff0,munificent.party,available,5.98,9.98,high,low,10,namecheap,,,22/08/2026 21:09
+65371c0e-9efb-48d4-9dd1-06e7c250eff0,munificent.party,available,5.98,9.98,medium,low,10,namecheap,,,22/08/2026 21:09
 775498b4-92bd-492d-bf50-2f614e1b6ae6,reposeful.party,available,5.25,6.25,medium,low,9,namesilo,,,09/09/2026 13:28
 cc05bcf8-75fe-4607-991e-1b5f887f3fdd,nocturnal.party,premium,455,65,high,low,9,namecheap,,,03/09/2026 18:04
 f7191b89-0dcf-4fee-89b9-99fa083f52cf,cityfied.party,available,5.25,6.25,medium,low,8,namesilo,,,12/08/2026 08:49
@@ -573,7 +577,7 @@ aec6f144-f069-4acc-b562-f4fe2ab09ebb,swishing.party,available,5.25,6.25,high,low
 e39d4893-fec6-4914-a649-94382dd4e5ea,alliaceous.party,available,5.25,6.25,medium,low,10,namesilo,,,
 e8118fac-565d-4afb-acde-e45403a42196,crooner.party,available,5.98,9.98,high,low,7,namecheap,,,21/09/2026 22:42
 dd303ca6-8905-44ba-a2eb-822c4713e98d,joyfully.party,available,5.98,9.98,high,low,8,namecheap,,,14/09/2026 21:32
-cb066a1d-552f-4036-b507-308ac95b160a,unexplored.party,available,5.25,6.25,high,low,10,namesilo,,,12/09/2026 09:42
+cb066a1d-552f-4036-b507-308ac95b160a,unexplored.party,available,5.25,6.25,medium,low,10,namesilo,,,12/09/2026 09:42
 e4c98d0f-544e-4136-aa55-4af94c3a0232,effulgent.party,available,5.25,6.25,medium,low,9,namesilo,,,15/08/2026 16:23
 b5bd6a87-f540-4ddc-8be5-426264737d4c,absorbance.party,available,5.98,9.98,high,low,10,namecheap,,,16/09/2026 18:11
 485ef196-87c8-4221-af53-9b5a9c700420,palish.party,available,5.25,6.25,medium,low,6,namesilo,,,04/09/2026 23:41
@@ -600,7 +604,7 @@ a7be7e9c-88c8-4610-8f26-28b70fe70d2d,aditya.party,available,5.25,6.25,high,low,6
 473d81fa-d7d9-48a5-bf41-158fabcab9cc,proscribed.party,available,5.25,6.25,medium,low,10,namesilo,,,18/08/2026 11:01
 a3c0fc21-a01b-4965-906e-e3c1d2b9b91e,adultery.party,available,5.25,6.25,medium,low,8,namesilo,,,17/09/2026 10:25
 e5648f1f-ffe5-4170-9b1d-d2fb4f952bc8,corrode.party,available,5.98,9.98,medium,low,7,namecheap,,,09/09/2026 20:10
-65f69137-ee36-4952-8000-44089759fe42,ballplayer.party,available,5.25,6.25,high,low,11,namesilo,,,21/09/2026 23:25
+65f69137-ee36-4952-8000-44089759fe42,ballplayer.party,available,5.25,6.25,medium,low,11,namesilo,,,21/09/2026 23:25
 01b99593-6946-4822-a0c2-fdfc37969573,incisive.party,premium,437.5,62.5,medium,low,8,name.com,,,22/08/2026 01:21
 ae8ffff2-4e60-4f75-a595-c1174141cd27,arresting.party,available,5.25,6.25,high,low,9,namesilo,,,06/08/2026 21:47
 a56e70f0-4b92-4820-a23f-b8c060844a7d,catkinate.party,available,5.25,6.25,medium,low,9,namesilo,,,11/08/2026 22:09
@@ -615,7 +619,7 @@ e5d72a4c-ffa9-4954-ba17-9aee0d47225a,cagey.party,available,5.25,6.25,medium,low,
 e8720e14-9d09-412c-b0fd-d38a84b8900b,reliably.party,available,5.25,6.25,high,low,8,namesilo,,,14/09/2026 11:46
 2a4dc30c-f587-4172-becb-d1dc1bc226bf,nakedly.party,available,5.25,6.25,medium,low,7,namesilo,,,15/09/2026 16:02
 52ecf98e-6932-4a0b-b429-8cd9a7dca1a2,radiance.party,available,5.25,6.25,high,low,8,namesilo,,,20/08/2026 15:09
-b101522a-db59-445b-bcc3-bdfdb423150a,wellesley.party,premium,448,53.92,high,low,9,namesilo,,,27/09/2026 08:52
+b101522a-db59-445b-bcc3-bdfdb423150a,wellesley.party,premium,448,53.92,medium,low,9,namesilo,,,27/09/2026 08:52
 5e39f712-c895-4acd-8fba-d2945c8867bb,vocalizing.party,available,5.25,6.25,high,medium,10,namesilo,,,10/09/2026 08:24
 79ad930b-4d30-4d96-a991-d7fff561f95e,asterisk.party,premium,455,65,high,low,8,namecheap,,,20/09/2026 17:11
 9a62183f-1c97-4b3d-8f1b-9d361528718c,prayerful.party,available,5.25,6.25,high,medium,9,namesilo,,,09/09/2026 01:05
@@ -625,26 +629,26 @@ b304103b-5932-4329-8687-5236a2c6fbf5,worry.party,available,,,high,low,5,,,,
 43915e5f-69eb-4896-9d6c-daaa1b96bf7d,ampersand.party,premium,448,53.92,high,low,9,namesilo,,,18/09/2026 23:09
 310c3ac5-9461-45f9-aaa9-e58895904cc1,aeriform.party,available,5.25,6.25,medium,low,8,namesilo,,,
 92517061-986d-46b4-bca4-bbb3df733f05,diode.party,premium,455,65,high,low,5,namecheap,,,24/09/2026 20:00
-f5a54cd1-8bf5-4dce-946e-7aa20c02ab36,undecided.party,premium,448,53.92,high,low,9,namesilo,,,04/09/2026 14:20
+11339c6c-6290-43ec-8794-a1fbf4f602a4,sharma.party,available,5.25,6.25,high,low,6,namesilo,,,28/09/2026 03:27
+f5a54cd1-8bf5-4dce-946e-7aa20c02ab36,undecided.party,premium,448,53.92,medium,low,9,namesilo,,,04/09/2026 14:20
 1e3a9021-4998-4d66-a8e5-d003dd10fb22,ballyrag.party,available,5.25,6.25,medium,low,8,namesilo,,,11/08/2026 08:57
 bbcfd8da-40a8-4800-8001-b1c5c33989a2,athar.party,available,5.98,9.98,high,low,5,namecheap,,,20/09/2026 19:25
 a3a6aa86-c977-4478-bd59-ffd5c9e08eff,gimcrack.party,premium,437.5,62.5,medium,low,8,name.com,,,18/08/2026 06:39
 dc3dd29c-e905-4ebb-9d92-bfc3202b916a,resistance.party,premium,6500,130,high,low,10,namecheap,,,12/09/2026 07:26
-02bcd372-ab68-4d6b-9379-a4d8412beae6,akkadian.party,available,5.25,6.25,high,low,8,namesilo,,,18/09/2026 00:10
+02bcd372-ab68-4d6b-9379-a4d8412beae6,akkadian.party,available,5.25,6.25,medium,low,8,namesilo,,,18/09/2026 00:10
 26dbf283-3c02-4883-9ecd-94c6959b4e25,ideologic.party,available,5.98,9.98,medium,low,9,namecheap,,,21/08/2026 18:04
-ec325d65-29f9-4e7a-933b-453044e14f60,baku.party,available,5.98,9.98,high,low,4,namecheap,,,21/09/2026 20:24
+ec325d65-29f9-4e7a-933b-453044e14f60,baku.party,available,5.98,9.98,medium,low,4,namecheap,,,21/09/2026 20:24
 601dd854-b719-4d32-b641-34598d9fa0fb,piffle.party,available,5.98,9.98,medium,low,6,namecheap,,,21/09/2026 21:41
 27e2ec72-c993-42a4-bcf1-a1e8b923aa67,talkative.party,premium,437.5,62.5,high,low,9,name.com,,,09/08/2026 21:05
 0621042d-e0b2-4359-b2e3-ea94d75aed51,alive.party,premium,1107,116,high,low,5,namesilo,,,22/09/2026 05:04
 17845aa9-f08a-48dd-9d8e-72da71479ba3,enraptured.party,available,5.25,6.25,high,low,10,namesilo,,,14/08/2026 23:46
 b8d9de7e-be5d-45da-9606-72c1714b0e42,unimagined.party,available,5.25,6.25,medium,low,10,namesilo,,,12/09/2026 08:26
-8f5afeec-4945-4e17-aea2-c5fdad84b830,bismuth.party,available,5.25,6.25,high,low,7,namesilo,,,20/09/2026 23:53
+8f5afeec-4945-4e17-aea2-c5fdad84b830,bismuth.party,available,5.25,6.25,medium,low,7,namesilo,,,20/09/2026 23:53
 c71d9358-2f80-4692-b472-ba3738acf9ac,payments.party,premium,448,53.92,high,low,8,namesilo,,,18/09/2026 16:44
 e921bd9a-bd4b-4373-8e97-db57f62ee906,clad.party,available,5.25,6.25,high,low,4,namesilo,,,12/08/2026 09:13
 84aa0fd2-1517-46c8-a4ec-5dcc20115e33,lunger.party,available,5.25,6.25,medium,low,6,namesilo,,,12/08/2026 23:06
 121dcbd0-13f6-47a6-92f7-95a12a6163ae,lion.party,resell,,,high,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",03/08/2016 19:50,02/08/2028 23:59,26/09/2026 07:15
-b332c1b4-4d2f-47f1-aac0-bb2fbc0e4b8c,weary.party,available,5.25,6.25,high,low,5,namesilo,,,22/09/2026 15:10
-ce3b2a88-7325-4fb2-a7d0-3fa5456b3e54,strange.party,available,,,high,low,7,,,,
+b332c1b4-4d2f-47f1-aac0-bb2fbc0e4b8c,weary.party,available,5.25,6.25,medium,low,5,namesilo,,,22/09/2026 15:10
 01f40117-bb05-4a60-9cc5-0fe5032ce508,lisbon.party,available,,,high,low,6,,,,
 a23297ec-af8a-46fa-92f3-57f57afcb43e,tasselled.party,available,5.25,6.25,medium,low,9,namesilo,,,11/09/2026 08:58
 763b6c56-cd6d-41d5-a8e0-dcadb349b084,lego.party,available,5.25,6.25,high,high,4,namesilo,,,
@@ -676,7 +680,7 @@ b3aac3e3-c94f-4b75-bf2d-23e5d395483b,toed.party,available,5.25,6.25,medium,low,4
 e846eb34-3a12-4712-93eb-e8c684be514c,barbu.party,available,5.98,9.98,medium,low,5,namecheap,,,22/09/2026 05:04
 d2d31a1d-c502-462a-b73d-bc27501d726d,sandalled.party,available,5.98,9.98,high,medium,9,namecheap,,,09/09/2026 21:12
 dc0418db-8fc4-44a7-be79-64c5ecc9bf78,conform.party,available,,,high,low,7,,,,
-05056943-6149-475f-8323-5f282d3a7ceb,tyro.party,premium,455,65,high,low,4,namecheap,,,23/09/2026 02:27
+05056943-6149-475f-8323-5f282d3a7ceb,tyro.party,premium,455,65,medium,low,4,namecheap,,,23/09/2026 02:27
 b3389f65-3942-43dd-a369-7955ab1f12ef,soothes.party,available,5.25,6.25,medium,low,7,namesilo,,,20/09/2026 05:20
 c50e48e4-aed7-4217-a693-f8e1e627adc8,income.party,available,,,high,low,6,,,,
 7de7d45c-0e66-4fcc-b149-5e0fbbbe58fb,tie.party,premium,625,,high,low,3,name.com,,,
@@ -689,9 +693,10 @@ b3012177-fe28-48d7-acf1-febb94162eb0,spic.party,available,5.25,6.25,medium,low,4
 4211ba27-223b-48ce-abd6-5090ff20fb38,born.party,premium,448,53.92,high,low,4,namesilo,,,23/09/2026 00:37
 b52785aa-abad-4eca-b286-7b93d0cbfac8,annals.party,available,5.25,6.25,high,low,6,namesilo,,,19/09/2026 10:05
 60c7873f-ad01-4257-8e53-236c182ed790,incisively.party,available,5.25,6.25,medium,low,10,namesilo,,,15/09/2026 07:42
-e577b5ac-0538-47aa-ab58-413dac0755c4,experimentation.party,premium,116,29.5,high,low,15,namesilo,,,25/09/2026 14:37
+e577b5ac-0538-47aa-ab58-413dac0755c4,experimentation.party,premium,116,29.5,medium,low,15,namesilo,,,25/09/2026 14:37
 82cb434a-23fe-4fb9-9027-dd2905a0fece,arisaema.party,available,5.25,6.25,medium,low,8,namesilo,,,20/09/2026 05:35
 a3c20eef-800d-4cad-b6b8-8d5fba9c7c3c,vascular.party,available,5.25,6.25,medium,low,8,namesilo,,,13/09/2026 01:33
+3c5e1a30-e49b-4da0-91f5-7b2498eb5cfe,hurting.party,available,5.25,6.25,medium,low,7,namesilo,,,27/09/2026 14:14
 df54ca53-b3b7-4d0f-843b-60b1ce3d3927,sublimed.party,available,5.25,6.25,medium,low,8,namesilo,,,11/09/2026 00:03
 63cff9b8-13e8-4b4e-9d9a-1c97566ce351,bearish.party,available,5.25,6.25,medium,low,7,namesilo,,,09/08/2026 04:48
 02359a5b-0c82-4da6-830e-637ad6aa3c79,educated.party,premium,448,53.92,high,low,8,namesilo,,,24/09/2026 13:27
@@ -702,11 +707,11 @@ dc18c770-86a2-41e1-a921-552305e4944d,dogmatic.party,premium,437.5,62.5,medium,lo
 7e7c0f87-37d8-48f1-8d55-b8329f3ee3a5,luggage.party,available,5.25,6.25,high,low,7,namesilo,,,
 a14a18c5-2eb6-41d8-a645-fd9fd4af334d,synoptical.party,available,5.25,6.25,medium,low,10,namesilo,,,11/09/2026 06:35
 8e28e0a7-e577-4e04-80b7-543f4db5da64,alhazen.party,available,5.98,9.98,medium,low,7,namecheap,,,18/09/2026 00:42
-e317688f-01d5-4c69-9a07-9f633c6bb1f4,spiritous.party,available,5.25,6.25,high,low,9,namesilo,,,10/09/2026 16:00
+e317688f-01d5-4c69-9a07-9f633c6bb1f4,spiritous.party,available,5.25,6.25,medium,low,9,namesilo,,,10/09/2026 16:00
 c1b1d81e-b0cf-4646-9d6c-201f313a7c71,isentropic.party,available,5.25,6.25,medium,low,10,namesilo,,,22/08/2026 10:44
 b884285a-1698-4199-87a8-1d5ce8cecf85,suppose.party,available,5.25,6.25,high,low,7,namesilo,,,
 b6b773cd-33ee-4ade-8dfd-037e138310ae,mendacious.party,available,5.98,9.98,medium,low,10,namecheap,,,24/08/2026 20:04
-a10cf8bc-8bc1-4d1e-9bb5-bcb64eda394c,sequester.party,premium,437.5,62.5,high,low,9,name.com,,,12/08/2026 21:06
+a10cf8bc-8bc1-4d1e-9bb5-bcb64eda394c,sequester.party,premium,437.5,62.5,medium,low,9,name.com,,,12/08/2026 21:06
 b5dd32e0-8769-4875-b9f5-657c0c38a610,mai.party,premium,640,77.35,high,medium,3,namesilo,,,25/09/2026 14:04
 38c6b2b6-8712-4c79-9b85-075cc078ff21,insatiable.party,premium,437.5,62.5,medium,low,10,name.com,,,22/08/2026 06:33
 3ba9f499-5624-4b0a-b4f8-04024e10541d,parhelic.party,available,5.25,6.25,medium,low,8,namesilo,,,08/09/2026 01:31
@@ -723,19 +728,20 @@ a8aa2e05-fce2-4bd7-8ead-553121c42f8a,gentlemen.party,premium,448,53.92,high,low,
 bec620e3-51bf-43ff-b911-e24e9595d33d,colombo.party,available,5.25,6.25,high,low,7,namesilo,,,
 ea793fa1-6cbc-48ce-8e76-d6ae766e4a62,borrowed.party,available,5.25,6.25,medium,low,8,namesilo,,,27/09/2026 09:49
 acb8dbdd-85df-498a-a32f-52769812ca1d,tiddler.party,available,5.25,6.25,medium,low,7,namesilo,,,25/08/2026 00:10
+3cd68408-7fc7-435a-abef-b94289c2cc7f,inappropriate.party,available,5.25,6.25,medium,low,13,namesilo,,,27/09/2026 16:59
 6592412b-3fa7-44b9-994d-1d14055a22ca,bicyclist.party,available,5.98,9.98,high,low,9,namecheap,,,23/09/2026 13:22
 03bdb36f-2284-4c3e-8a16-ef80a01bf3bc,chthonic.party,available,5.25,6.25,medium,low,8,namesilo,,,12/08/2026 07:28
 bc4fc100-83a6-47e0-b8ae-1a8c1b1ded2d,permission.party,premium,448,53.92,high,low,10,namesilo,,,25/09/2026 09:53
-24ec5dae-2fda-409b-b4e6-9472a8e6dcdc,retraction.party,available,5.25,6.25,high,low,10,namesilo,,,16/09/2026 15:59
+24ec5dae-2fda-409b-b4e6-9472a8e6dcdc,retraction.party,available,5.25,6.25,medium,low,10,namesilo,,,16/09/2026 15:59
 90b1b63a-d645-4b61-b076-5a6cdd5ae1a9,nett.party,premium,448,53.92,medium,low,4,namesilo,,,03/09/2026 15:52
 9570d6ef-068c-4658-9d2d-9087967772f0,disconnect.party,premium,437.5,,high,low,10,name.com,,,
 ad507078-74c3-4016-a6d3-12eaef477728,breathe.party,available,5.25,6.25,high,low,7,namesilo,,,24/09/2026 08:29
 0eb665be-7f93-425d-81a3-450160b9aefb,darkish.party,available,34.99,37.99,medium,low,7,name.com,,,13/08/2026 18:14
 11a0d20e-cc06-4844-a5f4-4dde09f0c90d,compilation.party,premium,437.5,,high,low,11,name.com,,,
 cf8e07cb-bb04-4f7b-ad6e-f4fa984d84f2,capitular.party,available,5.98,9.98,medium,low,9,namecheap,,,11/08/2026 17:58
-eeaebf4e-60b3-4d61-9990-c6772c1584c4,divinely.party,available,5.25,6.25,high,low,8,namesilo,,,14/09/2026 13:27
+eeaebf4e-60b3-4d61-9990-c6772c1584c4,divinely.party,available,5.25,6.25,medium,low,8,namesilo,,,14/09/2026 13:27
 b850beeb-8d7d-42ce-9310-d765357cc989,strengths.party,available,5.25,6.25,medium,low,9,namesilo,,,18/09/2026 22:25
-d0bcce0f-90ce-47bb-940e-3e4c9b079e11,sloe.party,available,5.98,9.98,high,low,4,namecheap,,,18/09/2026 10:21
+d0bcce0f-90ce-47bb-940e-3e4c9b079e11,sloe.party,available,5.98,9.98,medium,low,4,namecheap,,,18/09/2026 10:21
 df2bf7dc-a567-4d3d-88f2-1673df7623f7,reflexion.party,premium,448,53.92,high,low,9,namesilo,,,03/09/2026 11:28
 a03f5f22-420b-4505-86bc-a8bfacfc298e,furnished.party,available,5.98,9.98,high,low,9,namecheap,,,18/08/2026 18:50
 cdd04b98-818d-4474-be12-93bbd776a8b9,restrict.party,premium,455,65,medium,low,8,namecheap,,,19/09/2026 17:10
@@ -754,7 +760,7 @@ d1d0f655-ec9f-4096-a986-87356edaf853,arthropoda.party,available,5.25,6.25,high,l
 3dd962fd-ff2e-42bc-b382-ec21e0d0e9eb,desecrated.party,available,5.25,6.25,medium,low,10,namesilo,,,14/08/2026 03:18
 54a297df-ec32-44cf-8154-66feb9b94a3d,laureate.party,premium,437.5,62.5,high,low,8,name.com,,,22/08/2026 20:57
 4fe9298e-996d-4d1f-9709-7a4d6636bd3c,clawed.party,available,5.25,6.25,medium,low,6,namesilo,,,12/08/2026 10:02
-cd63f84b-4421-4bc7-bec1-bedd4ef3f120,azide.party,available,5.98,9.98,high,low,5,namecheap,,,21/09/2026 11:12
+cd63f84b-4421-4bc7-bec1-bedd4ef3f120,azide.party,available,5.98,9.98,medium,low,5,namecheap,,,21/09/2026 11:12
 5ee67db0-e64f-42f5-821c-ee629d7ac342,alpinia.party,available,5.25,6.25,medium,low,7,namesilo,,,18/09/2026 14:02
 cfaf6d2c-efac-4a8d-a2b8-affff8153f47,bloodstream.party,premium,116,29.5,high,low,11,namesilo,,,
 2b627597-226b-4466-aefe-c313d87f4178,media.party,available,,,high,medium,5,,,,
@@ -810,6 +816,7 @@ deeb99bd-7c79-470b-8b23-122d3a1383b1,stretchout.party,premium,448,53.92,medium,l
 0e0d7be8-6c2b-462f-a9bd-b680a8dc5437,heatable.party,available,5.25,6.25,medium,low,8,namesilo,,,21/08/2026 02:15
 04e6d158-2597-4c43-b575-a39ec98be53a,conflict.party,premium,448,53.92,high,low,8,namesilo,,,22/09/2026 14:40
 1b3c43e8-3c7e-4e13-8dfc-93974d9ca78b,ayurveda.party,available,5.25,6.25,high,low,8,namesilo,,,21/09/2026 10:52
+299f19b7-1151-4d9c-abfd-f7b2fc30c497,gwen.party,available,4.61,5.64,high,low,4,porkbun,,,27/09/2026 19:20
 dabe3ab4-4c7e-4ab3-bf6e-ed5b4899438b,midmost.party,available,5.25,6.25,medium,low,7,namesilo,,,24/08/2026 22:29
 488000e8-7eb4-4eee-94af-221ff56ecb9e,orchestra.party,available,5.25,6.25,high,low,9,namesilo,,,
 bfde5685-455c-4e40-950c-663f6cfc3fb6,continents.party,available,5.25,6.25,medium,low,10,namesilo,,,18/09/2026 12:00
@@ -818,10 +825,11 @@ bfde5685-455c-4e40-950c-663f6cfc3fb6,continents.party,available,5.25,6.25,medium
 d7410678-0bf5-4f51-9bde-0d00f551086d,recovered.party,premium,437.5,62.5,high,low,9,name.com,,,13/08/2026 11:06
 93a793d2-3d16-4674-b9e2-b88d5673bf2f,androgenic.party,available,5.25,6.25,medium,low,10,namesilo,,,
 d1d693b1-4e68-498d-b2e2-614d3ba49418,potential.party,premium,448,53.92,high,low,9,namesilo,,,27/09/2026 04:46
+a260f54b-a5bc-4a92-90ba-d5fb43a0f7a1,receiving.party,available,5.25,6.25,high,low,9,namesilo,,,27/09/2026 17:11
 641855f9-cfc8-470c-8ff9-9f2373b5a02e,drubbing.party,available,5.25,6.25,medium,low,8,namesilo,,,13/09/2026 07:58
 eb177556-a1d2-49ed-97d7-bead3532a08d,aarhus.party,available,5.25,6.25,medium,low,6,namesilo,,,16/09/2026 13:27
 cfec47c0-3da1-4f47-8cf6-1b3a57a882c0,variegate.party,available,5.25,6.25,medium,low,9,namesilo,,,25/08/2026 08:26
-5b739640-c097-4a08-810d-06f577531dcc,activeness.party,available,5.25,6.25,high,low,10,namesilo,,,17/09/2026 05:11
+5b739640-c097-4a08-810d-06f577531dcc,activeness.party,available,5.25,6.25,medium,low,10,namesilo,,,17/09/2026 05:11
 98156f20-98cf-4299-b4d9-69bfc2707e58,flapjack.party,premium,448,53.92,high,low,8,namesilo,,,22/09/2026 14:32
 34c6177b-39ad-4df9-8539-8fba9fffe994,grumbling.party,available,5.98,9.98,medium,low,9,namecheap,,,20/08/2026 20:33
 e74fd492-0e98-494a-92ee-dfd7f1542c2b,dataflows.party,available,5.25,6.25,low,low,10,namesilo,,,21/09/2026 05:22
@@ -832,7 +840,7 @@ e74fd492-0e98-494a-92ee-dfd7f1542c2b,dataflows.party,available,5.25,6.25,low,low
 46a44520-103b-4103-af28-0c519e658b85,gorky.party,available,5.25,6.25,high,low,5,namesilo,,,18/09/2026 05:08
 df297c17-1af0-4b3c-9fa9-22a33c88bc6a,wording.party,available,5.25,6.25,high,low,7,namesilo,,,
 bad938e2-a005-4ed8-8a12-0d8a42fc39b1,unbeknown.party,available,5.25,6.25,medium,low,9,namesilo,,,12/09/2026 01:47
-92a2839f-d8e2-43ca-af48-d384382a4e36,confused.party,premium,437.5,62.5,high,low,8,name.com,,,07/08/2026 12:02
+92a2839f-d8e2-43ca-af48-d384382a4e36,confused.party,premium,437.5,62.5,medium,low,8,name.com,,,07/08/2026 12:02
 615269d2-f121-4409-8e13-51909ebd5e2e,chin.party,available,5.25,6.25,high,low,4,namesilo,,,
 94418b4b-83a6-49d0-923a-c032acf9655e,sorbed.party,available,5.25,6.25,medium,low,6,namesilo,,,10/09/2026 14:27
 9648b66c-1bc3-48fd-af62-78609c3b09b1,amusive.party,available,5.98,9.98,high,low,7,namecheap,,,
@@ -845,7 +853,7 @@ ad9e0a9c-1097-4a34-8d72-46b88d810296,shouts.party,available,5.25,6.25,medium,low
 fdb4fb35-e61a-4c37-b214-9ad35aba4655,startling.party,available,5.98,9.98,medium,low,9,namecheap,,,10/09/2026 19:02
 4b8265e9-88f0-416a-b519-97f7b37bfb70,parent.party,available,,,high,low,6,,,,
 43bbde44-3c5f-437d-bb8d-3572099a4aa0,oppressed.party,available,5.25,6.25,medium,low,9,namesilo,,,04/09/2026 16:50
-8e129cb5-9110-4169-ba6d-46938edbc5d9,carte.party,premium,448,53.92,high,low,5,namesilo,,,23/09/2026 16:04
+8e129cb5-9110-4169-ba6d-46938edbc5d9,carte.party,premium,448,53.92,medium,low,5,namesilo,,,23/09/2026 16:04
 6b6d10ed-a176-46f5-9ecd-0721a6bd10c8,rumansh.party,available,5.25,6.25,high,medium,7,namesilo,,,09/09/2026 18:32
 4c2deff2-ed35-4d12-ab13-f9e38659ca41,disfigure.party,available,5.25,6.25,medium,low,9,namesilo,,,24/09/2026 05:36
 47f32267-7dd1-4f97-9db8-4112dd89ae17,animator.party,premium,448,53.92,high,low,8,namesilo,,,19/09/2026 09:13
@@ -854,7 +862,7 @@ fdb4fb35-e61a-4c37-b214-9ad35aba4655,startling.party,available,5.98,9.98,medium,
 267a5f34-8909-4e1e-92a4-86c870f21d44,foot.party,premium,3125,,high,low,4,name.com,,,
 88f71965-018e-4dc2-bfb3-a5d65b94c259,oengus.party,available,5.25,6.25,medium,low,6,namesilo,,,17/09/2026 12:31
 aadc1ff0-bae6-495c-a277-32814f68c7c3,curry.party,premium,1250,,high,low,5,name.com,,,
-419e4bb2-38dd-4512-818c-f935b351a09c,unshaken.party,available,5.25,6.25,high,low,8,namesilo,,,12/09/2026 07:04
+419e4bb2-38dd-4512-818c-f935b351a09c,unshaken.party,available,5.25,6.25,medium,low,8,namesilo,,,12/09/2026 07:04
 d3c781e3-645f-4d3a-84ae-de36dccd40c8,deuce.party,premium,455,65,high,low,5,namecheap,,,21/09/2026 12:17
 d1eafa9e-98c6-4226-a6cf-84d2c274ce81,goofproof.party,premium,437.5,62.5,medium,low,9,name.com,,,18/08/2026 10:41
 247511fa-058f-41e9-9eca-44aa37857bae,bert.party,premium,448,53.92,high,low,4,namesilo,,,25/09/2026 14:48
@@ -864,21 +872,23 @@ e0601139-f462-45d9-bf4d-e8903c3a561f,tanning.party,available,5.98,9.98,high,low,
 73d815ff-d446-44bb-b62e-911246c45c32,percussive.party,available,5.25,6.25,high,low,10,namesilo,,,08/09/2026 16:22
 4c03c1c7-9dee-40ae-931b-b8b1b22da8f6,changer.party,available,5.25,6.25,high,low,7,namesilo,,,21/09/2026 05:31
 ae8bd153-7436-4d65-a4b6-d2263f4e59e2,sarcosomal.party,available,5.98,9.98,high,medium,10,namecheap,,,09/09/2026 21:29
-20e2f770-f679-46a7-97f1-8549e67a5692,wentworth.party,premium,448,53.92,high,low,9,namesilo,,,25/09/2026 21:47
+20e2f770-f679-46a7-97f1-8549e67a5692,wentworth.party,premium,448,53.92,medium,low,9,namesilo,,,25/09/2026 21:47
 0874d118-f576-464c-94c0-99eb393ecc4c,hahn.party,available,5.25,6.25,high,low,4,namesilo,,,27/09/2026 04:20
 597f83de-59eb-4bc6-a874-e009a93286d8,blazonry.party,available,5.25,6.25,medium,low,8,namesilo,,,24/09/2026 05:06
 73813e89-2fa7-4f2a-949e-e6b6cf541cd4,bayat.party,available,5.98,9.98,medium,low,5,namecheap,,,22/09/2026 17:57
 d3515db7-b9c5-4c97-b98e-eacf272dd659,began.party,available,5.25,6.25,medium,low,5,namesilo,,,
 2c0adcd5-8b5b-44a5-825b-9c82af646429,gorgeous.party,available,5.25,6.25,high,low,8,namesilo,,,24/09/2026 22:48
+4da43707-d3d0-444b-921d-e6bc60fd2134,shuttle.party,available,5.25,6.25,high,low,7,namesilo,,,27/09/2026 15:53
 9f569d54-04a3-4899-9cc6-4e68762725ad,premiss.party,available,5.25,6.25,medium,low,7,namesilo,,,20/09/2026 16:38
 118c6360-e8a2-419e-ab40-294eb3fabd40,nagging.party,available,5.25,6.25,medium,low,7,namesilo,,,03/09/2026 12:41
 61953f12-b651-4efd-bfab-b26699884b82,lovesick.party,premium,437.5,62.5,medium,low,8,name.com,,,24/08/2026 10:18
 f63b8a3f-a469-499e-8cb7-d032e3838257,conceited.party,available,5.98,9.98,medium,low,9,namecheap,,,12/08/2026 19:54
+c11e99a3-0f30-4785-879b-50c7aac120d1,tcp.party,premium,,,high,low,3,,,,28/09/2026 03:08
 d298c703-efd9-4dd5-b832-b82cc550f51f,internationally.party,available,5.25,6.25,medium,low,15,namesilo,,,
 5ba30bec-55ee-47e3-8cd0-4bf76dbd4d54,contraband.party,premium,455,65,high,low,10,namecheap,,,22/09/2026 21:25
 6cde5ee2-06d4-44b9-a8a1-9d673edfd832,sums.party,available,5.25,6.25,medium,low,4,namesilo,,,18/09/2026 07:08
 b6a3d4e9-bf5b-494f-acab-bc98c40446a2,rocambole.party,available,5.25,6.25,medium,low,9,namesilo,,,18/09/2026 11:33
-2e77d0be-bd84-4921-81b1-55c3031af04b,estimable.party,available,5.25,6.25,high,low,9,namesilo,,,12/08/2026 19:44
+2e77d0be-bd84-4921-81b1-55c3031af04b,estimable.party,available,5.25,6.25,medium,low,9,namesilo,,,12/08/2026 19:44
 0d2d230f-49eb-4740-b26b-77eceb8f240f,sad.party,premium,640,77.35,high,low,3,namesilo,,,24/09/2026 05:55
 0a4077e1-0eba-4cbb-acb3-60f5cfece3a9,dispersion.party,premium,455,65,high,low,10,namecheap,,,24/09/2026 22:57
 769bde15-8848-463b-aa43-ed5a7084d60e,sandwich.party,premium,437.5,,high,low,8,name.com,,,
@@ -889,15 +899,16 @@ e5e28f42-c285-42c9-be9d-c66f5a7f6e8d,aiken.party,premium,455,65,high,low,5,namec
 17eae4eb-091d-492b-9aa7-1df6ec9d86ef,effete.party,available,5.98,9.98,low,low,6,namecheap,,,13/08/2026 20:52
 9c56c843-57ff-4a51-81e3-dcfb773fb487,fathomable.party,available,5.25,6.25,medium,low,10,namesilo,,,17/08/2026 23:40
 294dbb4c-5e69-42f2-bcdf-d543b5cb469a,unq.party,premium,650,84.5,medium,low,3,namecheap,,,20/09/2026 22:06
+a6947ef7-d79d-41fe-82d7-9daca60c0fb4,wondering.party,available,5.25,6.25,high,low,9,namesilo,,,28/09/2026 03:23
 585d88f4-3f6d-4eab-be53-54bd080531dd,cocks.party,premium,6900,116,medium,low,5,namesilo,,,18/09/2026 23:39
 cf35e884-62ba-49fe-97c2-114cc45b21ef,theatres.party,available,5.25,6.25,high,low,8,namesilo,,,20/09/2026 19:41
 85786b90-f5c3-4968-a428-541512c65a6f,toni.party,available,5.25,6.25,high,low,4,namesilo,,,27/09/2026 07:46
 a1091d85-7592-4ac8-862a-5d1763680cf6,honored.party,available,5.25,6.25,high,low,7,namesilo,,,17/08/2026 13:25
-85ac63c3-2225-43b1-bdd4-485216e548d2,blissfully.party,available,5.25,6.25,high,low,10,namesilo,,,14/09/2026 00:23
+85ac63c3-2225-43b1-bdd4-485216e548d2,blissfully.party,available,5.25,6.25,medium,low,10,namesilo,,,14/09/2026 00:23
 01bc4a2b-8a06-44d9-ba5b-434a3c5c1e33,aegina.party,available,5.25,6.25,medium,low,6,namesilo,,,17/09/2026 12:15
 eb129cfa-5f7f-41c3-8185-449e7699867d,behave.party,available,,,high,low,6,,,,
 b6bcdcf9-1cd7-4ab0-9e11-902d34bb650a,acropolis.party,premium,448,53.92,high,low,9,namesilo,,,17/09/2026 03:57
-b9dd409a-50aa-4be7-ba63-4c7e4c897f39,aptly.party,available,5.25,6.25,high,low,5,namesilo,,,13/09/2026 16:19
+b9dd409a-50aa-4be7-ba63-4c7e4c897f39,aptly.party,available,5.25,6.25,medium,low,5,namesilo,,,13/09/2026 16:19
 cae74e31-cce7-4477-bf3c-f1957e2d3b3c,allegoric.party,available,5.25,6.25,medium,low,9,namesilo,,,
 ae2c933b-0c57-4f15-8742-6eb159c02f28,narrowly.party,available,5.25,6.25,medium,low,8,namesilo,,,15/09/2026 16:08
 415be6c0-a691-478c-9486-981b9946eaa4,fantastic.party,premium,448,53.92,high,medium,9,namesilo,,,22/09/2026 06:18
@@ -919,6 +930,7 @@ fc8e5c47-b7f9-4466-9167-cfb50981453d,slept.party,available,,,medium,low,5,,,,
 53540b21-3931-4d72-add2-64b3e043d156,referred.party,available,5.98,9.98,medium,low,8,namecheap,,,17/09/2026 06:11
 1f59e18b-ddb8-4a86-986e-1663dd474131,roseate.party,available,5.25,6.25,high,medium,7,namesilo,,,09/09/2026 18:40
 1676d18d-24cf-4da7-ba30-5a035e056cd7,part.party,premium,130,32.5,high,low,4,namecheap,,,15/09/2026 19:03
+948ede96-2263-4238-b1f7-1231162b8edb,realise.party,available,4.48,5.55,high,low,7,dynadot,,,27/09/2026 16:29
 2d2a88e3-a980-4a39-96dd-2c20e3b47c59,tastes.party,available,5.25,6.25,medium,low,6,namesilo,,,19/09/2026 00:38
 e70e89ec-1b49-447b-998e-b246b485cf93,landless.party,available,5.98,9.98,medium,low,8,namecheap,,,22/08/2026 19:24
 2e91884a-1b6a-4899-9061-97ad349cf4f5,perforated.party,available,5.25,6.25,high,low,10,namesilo,,,08/09/2026 16:52
@@ -926,7 +938,7 @@ e70e89ec-1b49-447b-998e-b246b485cf93,landless.party,available,5.98,9.98,medium,l
 dda93ecf-2d40-4d6a-b12d-b7450b27c324,snipefish.party,available,5.25,6.25,medium,low,9,namesilo,,,23/09/2026 06:28
 0c50dc8f-3cd6-4356-858e-e16b932237a0,trapped.party,available,,,medium,low,7,,,,
 2497c26f-4a96-4e90-88cc-b5ccbc1019b8,aquatic.party,available,,,high,low,7,,,,
-23519e27-4b11-4247-9557-fc119d1e725d,roosevelt.party,available,5.25,6.25,high,low,9,namesilo,,,19/09/2026 09:58
+23519e27-4b11-4247-9557-fc119d1e725d,roosevelt.party,available,5.25,6.25,medium,low,9,namesilo,,,19/09/2026 09:58
 1d3dd2c9-762e-410b-bdae-cd2c43fa2e7e,rey.party,premium,640,77.35,high,low,3,namesilo,,,25/09/2026 16:30
 322476e5-2ad9-4738-929c-ae2e7d5d85bd,ponders.party,available,5.25,6.25,medium,low,7,namesilo,,,18/09/2026 02:06
 d7fe37ab-7b8a-485e-83c2-43e48550fa14,dating.party,resell,,,high,low,6,Dynadot Inc,25/07/2026 00:01,25/07/2027 00:01,26/09/2026 05:26
@@ -937,7 +949,7 @@ ae8e152d-5d4d-42b5-b5f4-2894f9d79e27,perfectly.party,available,5.25,6.25,high,lo
 c75497cb-9006-4ba5-a5db-18f692792e0e,peacock.party,available,,,high,high,7,,,,
 562e1cc4-fca4-4cc8-816f-623bbfd62924,seminal.party,available,5.25,6.25,high,low,7,namesilo,,,18/08/2026 22:51
 37cd9606-57de-40b4-87f7-9dbb57789451,wiry.party,available,5.25,6.25,medium,low,4,namesilo,,,10/09/2026 22:42
-7d9a1908-1f10-4b5c-a4c3-11f80e78c6ac,nestorian.party,available,5.25,6.25,high,low,9,namesilo,,,03/09/2026 15:50
+7d9a1908-1f10-4b5c-a4c3-11f80e78c6ac,nestorian.party,available,5.25,6.25,medium,low,9,namesilo,,,03/09/2026 15:50
 7e0db962-8896-46e2-bf40-2b9d67c4422a,motorist.party,available,5.25,6.25,high,low,8,namesilo,,,21/09/2026 07:26
 b7cbc5b5-f98f-4e2e-b830-5aa088881dc6,decide.party,available,,,high,low,6,,,,
 80131f75-a47d-4f83-a268-c4e67e86ecee,continues.party,premium,455,65,medium,low,9,namecheap,,,17/09/2026 13:29
@@ -959,21 +971,21 @@ ff5c4c5c-c0a9-46a7-8722-ea40f392bb74,flustered.party,available,5.25,6.25,medium,
 ab5d6282-fb6b-4ae3-aeea-c21c147ac99c,camomile.party,available,5.98,9.98,medium,low,8,namecheap,,,19/09/2026 13:02
 0d79b381-7a12-492c-833a-ca50b4c722ef,detailing.party,available,5.25,6.25,high,low,9,namesilo,,,
 0c4aa1ed-c5fd-4266-87fb-d8c8084fc9a7,recalled.party,available,5.98,9.98,medium,low,8,namecheap,,,18/09/2026 02:40
-0a1bbcdd-cd8d-4355-95a8-84fc69efbca6,heap.party,premium,437.5,62.5,high,low,4,name.com,,,25/08/2026 00:28
+0a1bbcdd-cd8d-4355-95a8-84fc69efbca6,heap.party,premium,437.5,62.5,medium,low,4,name.com,,,25/08/2026 00:28
 36746f06-4bd5-43a4-a0b0-e4cf0061942c,domination.party,available,5.98,9.98,high,low,10,namecheap,,,24/09/2026 23:26
 d8ae2ed6-83c8-4bc7-8728-514770bc7fa4,dispenser.party,premium,448,53.92,high,low,9,namesilo,,,24/09/2026 22:56
 7e784655-1caa-45ba-9745-ef35fbd6cc42,unabated.party,available,5.25,6.25,medium,low,8,namesilo,,,11/09/2026 23:24
 d207ae55-3fe6-4e91-837e-8e31760adbaa,backstairs.party,available,5.25,6.25,medium,low,10,namesilo,,,08/08/2026 06:26
 c62c42f9-3e86-4c6b-b052-a0d8a2914652,benedict.party,premium,455,65,high,low,8,namecheap,,,23/09/2026 07:52
 ce5f2c3e-9a09-4a8c-893c-205cbf1fcc3f,instrument.party,premium,448,53.92,high,low,10,namesilo,,,24/09/2026 13:05
-73bfed8a-d7b3-4592-91b3-edf30ce8c2e0,dull.party,premium,1107,116,high,low,4,namesilo,,,23/09/2026 00:25
+73bfed8a-d7b3-4592-91b3-edf30ce8c2e0,dull.party,premium,1107,116,medium,low,4,namesilo,,,23/09/2026 00:25
 2455e550-796a-47b4-a558-b4922ea216f0,furtive.party,available,,,medium,low,7,,,,
 188a6e59-f469-4d60-90b3-9523d0cd36a0,committed.party,premium,448,53.92,high,low,9,namesilo,,,23/09/2026 15:46
 f793f5f0-afcf-4e9d-bcd2-1fb0ce0ec30e,very.party,resell,,,high,low,4,Dynadot Inc,03/03/2020 11:11,03/03/2027 11:11,27/09/2026 09:52
 46ce1818-7c3d-42ab-bb75-b05f1e4bd602,leathery.party,available,5.25,6.25,medium,low,8,namesilo,,,13/08/2026 01:13
 0211de6c-c192-4f52-9f2d-755b5839d0ab,likeable.party,premium,437.5,62.5,high,low,8,name.com,,,23/08/2026 06:11
 b8a51eb5-ddb8-48c7-aec8-2c5725be6156,cellular.party,available,5.25,6.25,high,low,8,namesilo,,,11/08/2026 23:32
-08327537-5bc1-4515-8716-3d0ca129c00d,caldwell.party,premium,455,65,high,low,8,namecheap,,,25/09/2026 03:55
+08327537-5bc1-4515-8716-3d0ca129c00d,caldwell.party,premium,455,65,medium,low,8,namecheap,,,25/09/2026 03:55
 71fbc439-d0d4-4488-bcd9-1d677fa57b94,agreements.party,available,34.99,37.99,medium,low,10,name.com,,,17/09/2026 03:09
 b464d91a-3b15-4e6b-8bc0-dfbe416325f7,unblinking.party,available,5.25,6.25,medium,low,10,namesilo,,,12/09/2026 02:16
 dd07eae8-0edf-4f5a-98ce-2e10b1d27dec,many.party,available,5.98,9.98,high,low,4,namecheap,,,25/09/2026 16:43
@@ -987,15 +999,3 @@ d69232b8-5b9d-4bce-9727-1603edff53f0,volunteering.party,premium,640,77.35,high,l
 1b86c439-4b1f-4e0e-9bfc-b2ca54ca3825,shadowed.party,available,5.25,6.25,medium,low,8,namesilo,,,10/09/2026 05:25
 10824735-8ad5-4997-894e-e4383ca82a19,deathless.party,available,34.99,37.99,medium,low,9,name.com,,,13/08/2026 20:02
 10885655-4125-4436-b664-96a4bce0826d,changes.party,available,,,medium,low,7,,,,
-d07dbb88-c1e0-4240-96c4-2e770377ea82,salim.party,available,5.25,6.25,high,low,5,namesilo,,,19/09/2026 04:37
-6d153033-0048-4a02-ac3a-0a2452200281,flowering.party,premium,437.5,62.5,high,low,9,name.com,,,18/08/2026 09:02
-473c2222-e34d-4f47-afdf-bb84c5b62eb8,anglophile.party,available,5.25,6.25,medium,low,10,namesilo,,,19/09/2026 06:52
-230e6f61-51bf-4644-9440-a0912c7c33cc,outclassed.party,available,5.98,9.98,medium,low,10,namecheap,,,04/09/2026 19:12
-77602785-b4d9-4fbe-8ce2-4aec4a8afd4f,kenyan.party,available,5.25,6.25,high,low,6,namesilo,,,22/08/2026 15:34
-c4190eef-464c-431a-a668-d34b5026c413,clipboard.party,premium,448,53.92,high,low,9,namesilo,,,24/09/2026 15:44
-7f509280-92e4-4f61-9565-ea5673ae03da,referable.party,available,5.25,6.25,medium,low,9,namesilo,,,07/08/2026 01:28
-f9992134-8d81-4389-8f32-deed60216fcf,jammed.party,available,5.25,6.25,medium,low,6,namesilo,,,22/08/2026 12:07
-e9a2afda-9236-442a-a2c0-ea5ce4f21a9c,cultural.party,premium,437.5,62.5,high,low,8,name.com,,,13/08/2026 10:15
-64207b6a-935e-40f8-ba19-b9d999d604c7,rfc.party,premium,650,84.5,high,low,3,namecheap,,,27/09/2026 06:31
-bbb97ecb-b0f9-443c-b84f-e46bc24360ea,cambodian.party,premium,437.5,62.5,high,low,9,name.com,,,11/08/2026 15:40
-b24b310f-bf67-4a54-a48e-af492a301d95,blaeberry.party,available,5.25,6.25,medium,low,9,namesilo,,,23/09/2026 15:39
