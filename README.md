@@ -1,10 +1,10 @@
-# Available .PARTY One-Word Domains (22,956)
+# Available .PARTY One-Word Domains (24,668)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C956%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C668%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .party one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,956 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,668 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,956 domains · **Median ask:** $246.36 · **High-demand under $2,500:** 33
+**Public extract:** 1,000 rows · **Live catalog:** 24,668 domains · **Median ask:** $243.90 · **High-demand under $2,500:** 40
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/party`
 **Best for:** founders, investors, studios
 
@@ -73,16 +73,16 @@ print(df.head())
 | baht.party  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
 | joy.party   | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | blt.party   | premium   | $640      | $77.35        | high           | low    | 3      | namesilo                                            |
-| baku.party  | available | $5.98     | $9.98         | high           | low    | 4      | namecheap                                           |
+| baku.party  | available | $5.98     | $9.98         | medium         | low    | 4      | namecheap                                           |
 | fang.party  | resell    | —         | —             | high           | low    | 4      | —                                                   |
 | bud.party   | premium   | $550      | $71.50        | high           | low    | 3      | dynadot                                             |
-| chin.party  | available | $5.98     | $9.98         | high           | low    | 4      | namecheap                                           |
+| clad.party  | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                            |
 | lion.party  | resell    | —         | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | car.party   | premium   | $640      | $77.35        | high           | medium | 3      | namesilo                                            |
-| clad.party  | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                            |
+| faye.party  | available | $4.18     | $5.18         | medium         | low    | 4      | cloudflare                                          |
 | menu.party  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                         |
 | cdu.party   | premium   | $640      | $77.35        | high           | low    | 3      | namesilo                                            |
-| faye.party  | available | $4.18     | $5.18         | medium         | low    | 4      | cloudflare                                          |
+| gage.party  | available | $5.98     | $9.98         | high           | low    | 4      | namecheap                                           |
 | flour.party | resell    | —         | —             | high           | low    | 5      | —                                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,956 live domains                        |
+| 1,000-row public sample | 24,668 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 33 high-demand names under $2,500          |
+| Basic exported fields   | 40 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARTY One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARTY One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
